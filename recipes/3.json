@@ -1,0 +1,428 @@
+[
+  {
+    "id": 81,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pieczony Kurczak w Całości z Ziołami", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Absolutna klasyka niedzielnego obiadu. Soczysty w środku, z chrupiącą, złotą skórką. Sekret tkwi w maśle ziołowym wkładanym pod skórę.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kurczak w całości - ok. 1.5 - 2 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 100g, w temperaturze pokojowej", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 3 ząbki, przeciśnięte", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mieszanka świeżych ziół (rozmaryn, tymianek, pietruszka) - posiekane, 3 łyżki", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cytryna - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, świeżo mielony czarny pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 200°C. Kurczaka umyj i dokładnie osusz papierowym ręcznikiem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W miseczce wymieszaj miękkie masło z czosnkiem, ziołami, solą i pieprzem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Delikatnie, palcami, oddziel skórę od piersi kurczaka. Wsuń pod skórę przygotowane masło ziołowe i rozsmaruj równomiernie.", "styles": ["inline-highlight-theme"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kurczaka natrzyj solą i pieprzem z zewnątrz i od wewnątrz. Do środka włóż cytrynę przekrojoną na pół.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Nogi kurczaka zwiąż sznurkiem. Umieść w naczyniu żaroodpornym.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez ok. 1 godzinę i 20 minut (ok. 45 minut na każdy kilogram mięsa), aż po nakłuciu uda wypłynie klarowny sok. W trakcie pieczenia polewaj wytopionym tłuszczem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przed pokrojeniem odstaw na 10-15 minut, aby soki równomiernie się rozeszły.", "styles": ["inline-bold"] }] }
+    ]
+  },
+  {
+    "id": 82,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Karkówka Pieczona w Rękawie", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Niezawodny sposób na idealnie soczystą i kruchą pieczeń. Dzięki pieczeniu w rękawie, mięso gotuje się we własnych sokach, co gwarantuje wspaniały smak i aromat.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Karkówka wieprzowa w jednym kawałku - ok. 1.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 4-5 ząbków", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Musztarda Dijon - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka słodka - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeżo mielony pieprz - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej - 2 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Czosnek przeciśnij przez praskę. W miseczce wymieszaj musztardę, olej i wszystkie przyprawy, tworząc marynatę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Karkówkę umyj, osusz i dokładnie natrzyj przygotowaną marynatą z każdej strony.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mięso umieść w rękawie do pieczenia, zamknij klipsami i wstaw do lodówki na co najmniej 4 godziny, a najlepiej na całą noc.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik nagrzej do 180°C. W rękawie zrób kilka małych nacięć na górze, aby para mogła uchodzić.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez ok. 1.5 - 2 godziny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na ostatnie 15 minut pieczenia rozetnij rękaw od góry, aby mięso się pięknie zarumieniło.", "styles": ["inline-highlight"] }] }
+    ]
+  },
+  {
+    "id": 83,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Żeberka w Miodowo-Musztardowej Glazurze", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Lepkie, słodko-pikantne i odchodzące od kości. Te żeberka to absolutny hit każdej imprezy i rodzinnego grilla. Pieczenie w niskiej temperaturze to klucz do sukcesu.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Żeberka wieprzowe (paski) - ok. 1.5 kg", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Glazura:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Miód płynny - 4 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Musztarda sarepska - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sos sojowy - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Keczup - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 2 ząbki, przeciśnięte", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka wędzona - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Żeberka umyj, osusz i pokrój na mniejsze porcje (po 2-3 kostki). Natrzyj solą i pieprzem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 160°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce wymieszaj wszystkie składniki glazury.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Żeberka ułóż w naczyniu żaroodpornym, zalej połową glazury, przykryj folią aluminiową.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez 2 godziny. Po tym czasie zdejmij folię, posmaruj żeberka resztą glazury.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zwiększ temperaturę do 200°C i piecz jeszcze 20-30 minut, aż glazura się skarmelizuje, a mięso będzie odchodzić od kości. W trakcie można je jeszcze kilka razy posmarować sosem z dna naczynia.", "styles": ["inline-bold"] }] }
+    ]
+  },
+  {
+    "id": 84,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pieczeń Rzymska z Jajkiem", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Klops z mięsa mielonego, w którego sercu kryje się niespodzianka – jajka na twardo. Pyszna na ciepło do obiadu i na zimno na kanapki.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mięso mielone (wieprzowo-wołowe) - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 5 szt. (4 na twardo, 1 surowe)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 duża, posiekana i zeszklona", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bułka tarta - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 1/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek, sól, pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: plastry boczku do owinięcia", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Cztery jajka ugotuj na twardo i obierz.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 180°C. Formę keksową wysmaruj tłuszczem i wysyp bułką tartą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużej misce połącz mięso mielone, surowe jajko, zeszkloną cebulę, bułkę tartą namoczoną w mleku i przyprawy. Dokładnie wyrób masę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Połowę masy mięsnej wyłóż do formy. Wzdłuż środka ułóż jajka na twardo, jedno za drugim.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj resztą masy mięsnej, dociskając. Wierzch można owinąć plastrami boczku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez około 1 godzinę.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 85,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pulled Pork - Szarpana Wieprzowina", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Mięso tak delikatne, że rozpada się pod naciskiem widelca. Długo pieczona łopatka wieprzowa w aromatycznej marynacie. Idealna do bułek, tacos i kanapek.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Łopatka wieprzowa bez kości - ok. 2 kg", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Marynata (Rub):", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Brązowy cukier - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka wędzona - 2 łyżki", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek granulowany - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula w proszku - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Musztarda w proszku - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1 łyżka, Pieprz - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: piwo lub cydr - 1 szklanka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce wymieszaj wszystkie suche składniki marynaty.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mięso umyj, osusz i dokładnie natrzyj marynatą. Wstaw do lodówki na kilka godzin, a najlepiej na całą noc.", "styles": [] }] },
+      {
+        "block_style": "box-info",
+        "content": [
+          { "block_style": "paragraph", "content": [{ "text": "Sekretem jest niska temperatura i długi czas pieczenia ('low and slow').", "styles": [] }] }
+        ]
+      },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 130-140°C. Mięso umieść w naczyniu żaroodpornym, podlej piwem/cydrem/wodą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj naczynie i piecz przez 6-8 godzin, aż mięso będzie niewiarygodnie miękkie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyjmij mięso z naczynia. Za pomocą dwóch widelców poszarp je na włókna. Wymieszaj z sosem, który powstał podczas pieczenia.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 86,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pieczona Golonka w Piwie", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Danie dla prawdziwych smakoszy. Miękka, soczysta golonka z chrupiącą, rumianą skórką. Długie pieczenie w piwie nadaje jej niezwykłego aromatu.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Golonki wieprzowe tylne - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Piwo ciemne (porter, stout) - 1 butelka (0.5l)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 1 główka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Liść laurowy, ziele angielskie, majeranek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Miód - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Musztarda - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Golonki umyj, osusz. Skórę natnij w kratkę. Natrzyj solą, pieprzem i majerankiem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zagotuj wodę z przyprawami. Włóż golonki i gotuj na małym ogniu przez ok. 1.5 godziny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 180°C. Obgotowane golonki przełóż do naczynia żaroodpornego. Obłóż pokrojoną cebulą i czosnkiem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej piwem i piecz pod przykryciem przez godzinę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wymieszaj miód z musztardą. Zdejmij przykrycie, posmaruj golonki glazurą. Zwiększ temperaturę do 200°C i piecz jeszcze 30 minut, aż skórka będzie chrupiąca, polewając co jakiś czas sosem z pieczenia.", "styles": ["inline-bold"] }] }
+    ]
+  },
+  {
+    "id": 87,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Uda z Kurczaka Pieczone na Ziemniakach", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Obiad jednogarnkowy w najlepszym wydaniu. Soczyste udka z kurczaka pieką się razem z ziemniakami, które wchłaniają cały smak i aromat mięsa.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Uda z kurczaka - 6-8 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 1.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej - 4 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka słodka, papryka ostra, zioła prowansalskie, czosnek granulowany", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 190°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ziemniaki obierz i pokrój w grube plastry lub ósemki. Cebulę pokrój w piórka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużej misce wymieszaj ziemniaki i cebulę z 2 łyżkami oleju i połową przypraw. Wyłóż na dużą blachę do pieczenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Udka z kurczaka natrzyj resztą oleju i przypraw.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ułóż kurczaka na warstwie ziemniaków.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez ok. 1 godzinę i 15 minut, aż kurczak będzie upieczony, a ziemniaki miękkie i rumiane.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 88,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pieczona Kaczka z Jabłkami i Majerankiem", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Uroczyste danie, które zawsze robi wrażenie. Mięso kaczki jest niezwykle aromatyczne, a słodycz pieczonych jabłek idealnie równoważy jej smak.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kaczka w całości - ok. 2-2.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kwaśne jabłka (np. szara reneta) - 3-4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek suszony - 3-4 łyżki", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Miód - 1 łyżka (opcjonalnie, do posmarowania)", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 180°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kaczkę umyj i osusz. Dokładnie natrzyj solą, pieprzem i majerankiem z zewnątrz i od wewnątrz.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jabłka obierz, pokrój w ćwiartki i usuń gniazda nasienne. Napełnij nimi kaczkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Umieść kaczkę w naczyniu żaroodpornym lub na kratce nad blachą. Nakłuj skórę w kilku miejscach, aby tłuszcz mógł się wytapiać.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez ok. 2.5 - 3 godziny. Co 30 minut polewaj kaczkę wytopionym tłuszczem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na ostatnie 10 minut pieczenia można posmarować skórkę miodem, aby była bardziej chrupiąca i lśniąca.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 89,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Rolada z Boczku z Mięsem Mielonym", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Efektowne i przepyszne danie. Plastry boczku otulają aromatyczny farsz z mięsa mielonego. Idealna na specjalne okazje.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Boczek surowy wędzony, w długich plastrach - ok. 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mięso mielone wieprzowe - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt., posiekana", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 2 ząbki, przeciśnięte", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajko - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bułka tarta - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz, majeranek", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 180°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na kawałku folii aluminiowej lub papieru do pieczenia ułóż plastry boczku jeden obok drugiego, tak aby na siebie nachodziły, tworząc prostokątny 'dywan'.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce wymieszaj mięso mielone z cebulą, czosnkiem, jajkiem, bułką tartą i przyprawami. Wyrób na gładką masę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Masę mięsną rozsmaruj równomiernie na 'dywanie' z boczku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pomagając sobie folią, zwiń całość w ciasną roladę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przełóż roladę do naczynia żaroodpornego i piecz przez ok. 1 godzinę, aż boczek będzie chrupiący.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 90,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pieczona Biała Kiełbasa w Piwie z Cebulą", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Prosty, ale genialny sposób na białą kiełbasę. Pieczona w piwie z cebulą staje się niezwykle aromatyczna i soczysta. Idealna z chrzanem i musztardą.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Biała kiełbasa surowa - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 3-4 duże szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Piwo jasne - 1 butelka (0.5l)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Liść laurowy, ziele angielskie", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej - 2 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 180°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Cebulę pokrój w grube piórka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W naczyniu żaroodpornym wymieszaj cebulę z olejem, majerankiem i przyprawami.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kiełbasę nakłuj w kilku miejscach widelcem i ułóż na cebuli.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej wszystko piwem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz bez przykrycia przez 45-60 minut, aż kiełbasa i cebula się zarumienią. W trakcie pieczenia można kiełbasę raz obrócić.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 91,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pieczeń z Indyka w Ziołach", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Chude, delikatne mięso z piersi indyka w aromatycznej, ziołowej marynacie. Świetna propozycja na zdrowy, lekki obiad. Pyszna także na zimno.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Filet z piersi indyka - ok. 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa z oliwek - 4 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z połowy cytryny", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mieszanka ziół (tymianek, rozmaryn, oregano, bazylia) - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 2 ząbki, przeciśnięte", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W miseczce wymieszaj oliwę, sok z cytryny, zioła, czosnek, sól i pieprz.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mięso indyka umyj, osusz i dokładnie natrzyj marynatą. Odstaw na co najmniej 2 godziny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 180°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mięso przełóż do naczynia żaroodpornego lub rękawa do pieczenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez ok. 50-60 minut. Ważne, aby nie przepiec indyka, bo stanie się suchy.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Po upieczeniu odstaw na 10 minut przed krojeniem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 92,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Polędwiczka Wieprzowa w Boczku z Szałwią", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Eleganckie danie, które przygotowuje się zaskakująco szybko. Delikatna polędwiczka owinięta w chrupiący boczek z aromatyczną nutą szałwii.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Polędwiczka wieprzowa - 2 szt. (ok. 800g)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Boczek wędzony w cienkich plastrach - ok. 150g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeże liście szałwii - kilkanaście sztuk", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Musztarda Dijon - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej - do smażenia", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 190°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Polędwiczki oczyść z błon, dopraw solą i pieprzem, posmaruj musztardą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Obłóż polędwiczki liśćmi szałwii, a następnie każdą owiń ciasno plastrami boczku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej olej i obsmaż polędwiczki z każdej strony na złoty kolor.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przełóż na blachę i wstaw do piekarnika na 15-20 minut. Mięso w środku powinno pozostać lekko różowe.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pokrój w grube plastry i podawaj.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 93,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zapiekane Skrzydełka w Marynacie BBQ", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Idealna przekąska na mecz lub imprezę. Chrupiące, lepkie od słodko-dymnej marynaty skrzydełka, które znikają w mgnieniu oka.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Skrzydełka z kurczaka - 1.5 kg", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Marynata BBQ:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Keczup - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sos sojowy - 1/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet jabłkowy - 1/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Miód lub brązowy cukier - 1/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka wędzona, czosnek w proszku, pieprz cayenne", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 200°C. Blachę wyłóż papierem do pieczenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Skrzydełka umyj, osusz. Możesz je podzielić na mniejsze części.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce wymieszaj wszystkie składniki marynaty. Połącz z kurczakiem, dokładnie mieszając. Odstaw na co najmniej 30 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyłóż skrzydełka na blachę w jednej warstwie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez 45-50 minut, obracając i smarując pozostałą marynatą w połowie czasu, aż będą skarmelizowane i upieczone.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 94,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Szaszłyki z Kurczaka i Warzyw", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Kolorowe i pyszne danie, które świetnie sprawdza się zarówno na obiad, jak i na przyjęciu. Można je przygotować wcześniej i tylko upiec.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Filet z piersi kurczaka - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka (czerwona, żółta, zielona) - po 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukinia - 1 mała", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona cebula - 1 duża", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marynata: olej, zioła, papryka słodka, czosnek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Patyczki do szaszłyków", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Patyczki namocz w wodzie przez 30 minut, aby się nie spaliły.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kurczaka i warzywa pokrój w dużą kostkę (ok. 2x2 cm).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przygotuj marynatę i wymieszaj ją z kurczakiem i warzywami.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Nadziej składniki naprzemiennie na patyczki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 200°C. Ułóż szaszłyki na blasze lub kratce.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez 20-25 minut, obracając w połowie czasu, aż kurczak będzie upieczony, a warzywa lekko zarumienione.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 95,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pieczeń Wołowa (Rostbef)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Klasyka kuchni angielskiej. Idealnie upieczony kawałek wołowiny, różowy i soczysty w środku, z chrupiącą skórką. Kluczem jest użycie termometru do mięsa.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Rostbef wołowy w jednym kawałku - ok. 1.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Musztarda angielska - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól gruboziarnista, świeżo mielony pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - kilka ząbków", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeży rozmaryn", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mięso wyjmij z lodówki na godzinę przed pieczeniem. Osusz i natrzyj solą i pieprzem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na gorącej patelni z olejem obsmaż mięso z każdej strony na brązowy kolor.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Obsmażone mięso posmaruj musztardą, obłóż ząbkami czosnku i gałązkami rozmarynu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 220°C. Wstaw mięso i piecz 15 minut. Następnie zmniejsz temperaturę do 180°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz dalej, aż termometr wbity w środek mięsa wskaże: ", "styles": [] }, { "text": "55-60°C (medium rare)", "styles": ["inline-bold"] }, { "text": " lub ", "styles": [] }, { "text": "65-70°C (medium well)", "styles": ["inline-bold"] }, { "text": ". Zajmie to ok. 1-1.5 godziny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyjmij z piekarnika, przykryj folią i odstaw na 15-20 minut przed pokrojeniem.", "styles": ["inline-highlight-theme"] }] }
+    ]
+  },
+  {
+    "id": 96,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Mielone Kotlety Pieczone (Fit Wersja)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Klasyczne kotlety mielone w zdrowszej, lżejszej odsłonie. Zamiast smażenia na głębokim tłuszczu, pieczemy je w piekarniku. Mniej kalorii, ten sam pyszny smak.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mięso mielone z indyka lub kurczaka - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 mała, starta na tarce", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajko - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Płatki owsiane błyskawiczne - 4 łyżki", "styles": ["inline-italic"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz, majeranek, czosnek granulowany", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej w sprayu lub 1 łyżka oleju", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 190°C. Blachę wyłóż papierem do pieczenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce połącz mięso, startą cebulę, jajko, płatki owsiane i przyprawy. Dokładnie wyrób masę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Uformuj owalne kotlety i ułóż je na blasze.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Spryskaj lub posmaruj kotlety z wierzchu odrobiną oleju.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez 25-30 minut, aż będą upieczone i lekko zarumienione. W połowie pieczenia można je obrócić.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 97,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Schab ze Śliwką", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Klasyka polskiej kuchni na uroczyste okazje. Soczysty schab faszerowany słodkimi, suszonymi śliwkami. Doskonały na ciepło i na zimno.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Schab bez kości - ok. 1.2 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Suszone śliwki kalifornijskie - ok. 200g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek, sól, pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 2 ząbki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej - do smażenia", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Za pomocą długiego, wąskiego noża zrób w schabie nacięcie przez całą długość, tworząc kieszeń. Uważaj, by nie przebić mięsa na wylot.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mięso natrzyj solą, pieprzem, majerankiem i przeciśniętym czosnkiem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wypełnij kieszeń suszonymi śliwkami, upychając je ciasno.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Obsmaż schab z każdej strony na gorącym oleju.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przełóż do naczynia żaroodpornego, podlej odrobiną wody i piecz w 180°C przez ok. 1 godzinę i 15 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 98,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Udka z Kaczki Confit", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Francuska technika polegająca na wolnym gotowaniu mięsa w jego własnym tłuszczu. Efektem jest niewiarygodnie delikatne mięso i chrupiąca skórka.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Udka z kaczki - 4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól gruboziarnista - 4 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Tłuszcz kaczy lub gęsi - ok. 1 kg (do całkowitego przykrycia)", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Tymianek, liść laurowy, ząbki czosnku", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Udka natrzyj solą i ziołami. Wstaw do lodówki na 24 godziny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Następnego dnia opłucz udka z nadmiaru soli i dokładnie osusz.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku rozpuść tłuszcz. Umieść w nim udka tak, aby były całkowicie zanurzone. Dodaj czosnek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wstaw do piekarnika rozgrzanego do 120-130°C. Piecz (gotuj w tłuszczu) przez 2.5-3 godziny, aż mięso będzie bardzo miękkie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyjmij udka z tłuszczu. Bezpośrednio przed podaniem, umieść je na blasze skórą do góry i zapiecz w 220°C przez 10-15 minut, aż skórka będzie złota i chrupiąca.", "styles": ["inline-highlight-theme"] }] }
+    ]
+  },
+  {
+    "id": 99,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Duszona Jagnięcina w Czerwonym Winie", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Rozpływające się w ustach, aromatyczne mięso jagnięce w bogatym sosie z czerwonego wina i warzyw korzeniowych. Idealne danie na chłodne wieczory.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Goleń lub łopatka jagnięca - ok. 1.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwone wino wytrawne - 1 butelka (750ml)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula, marchew, seler naciowy", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion wołowy - 2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek, rozmaryn, liść laurowy", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej, mąka, sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mięso oprósz mąką, solą i pieprzem. Obsmaż z każdej strony na gorącym oleju w dużym, żeliwnym garnku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyjmij mięso. Do garnka wrzuć pokrojone warzywa (cebulę, marchew, seler) i smaż do zeszklenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wlej wino i gotuj, zeskrobując resztki z dna. Gotuj, aż wino zredukuje się o połowę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Włóż z powrotem mięso. Dodaj bulion, czosnek i zioła. Doprowadź do wrzenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj garnek i wstaw do piekarnika rozgrzanego do 160°C. Duś przez 3-4 godziny, aż mięso będzie się rozpadać.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 100,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Gyros z Kurczaka z Piekarnika", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Zdrowsza wersja popularnego dania. Kawałki kurczaka marynowane w przyprawie gyros, upieczone do perfekcji. Idealne do pity, sałatek lub z ryżem.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Filet z piersi kurczaka - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Przyprawa gyros - 3-4 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jogurt naturalny - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z cytryny - 2 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kurczaka pokrój w cienkie paski.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce wymieszaj jogurt, olej, sok z cytryny i przyprawę gyros. Dodaj kurczaka i dokładnie wymieszaj. Odstaw na co najmniej godzinę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 200°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rozłóż kurczaka w jednej warstwie na blasze wyłożonej papierem do pieczenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez 20-25 minut, aż mięso będzie upieczone i lekko zarumienione na brzegach.", "styles": [] }] }
+    ]
+  }
+]
