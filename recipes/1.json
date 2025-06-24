@@ -1,1 +1,1071 @@
-
+[
+  {
+    "id": 1,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kremowa Jajecznica Mistrza Kuchni", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Sekret idealnie kremowej jajecznicy tkwi w cierpliwości i niskiej temperaturze. To danie, które zamienia proste śniadanie w luksusowe doświadczenie.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka od szczęśliwej kury", "styles": ["inline-bold"] }, { "text": " - 3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło klarowane - 1 łyżka stołowa", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietanka 30% - 2 łyżki stołowe", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól i świeżo mielony czarny pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szczypiorek, drobno posiekany", "styles": ["inline-italic"] }, { "text": " - do dekoracji", "styles": [] }] },
+      {
+        "block_style": "box-tip",
+        "content": [
+          { "block_style": "header-h3", "content": [{ "text": "Dobra Rada:", "styles": [] }] },
+          { "block_style": "paragraph", "content": [{ "text": "Nigdy nie dodawaj soli do jajek przed smażeniem! Sól wyciąga wodę i sprawia, że stają się twarde. Solimy zawsze na samym końcu.", "styles": [] }] }
+        ]
+      },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelnię o grubym dnie wrzuć masło. Ustaw palnik na najmniejszą możliwą moc.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce roztrzep jajka widelcem tylko do połączenia składników. Dodaj śmietankę i wymieszaj.", "styles": ["inline-highlight-theme"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wlej masę jajeczną na ledwo ciepłą patelnię i bardzo powoli mieszaj silikonową szpatułką, zbierając masę od brzegów do środka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gdy jajecznica osiągnie pożądaną, wciąż lekko płynną konsystencję, natychmiast zdejmij ją z ognia. Dojdzie do siebie na gorącym talerzu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw solą i pieprzem, posyp szczypiorkiem i podawaj z ulubionym pieczywem. Smacznego!", "styles": ["inline-bold"] }] }
+    ]
+  },
+  {
+    "id": 2,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pancakes Amerykańskie (Puszyste Placki)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Klasyka amerykańskich śniadań. Puszyste, lekkie i idealne do polania syropem klonowym. Ten przepis zawsze się udaje.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Suche:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 1 i 1/2 szklanki (225 g)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Proszek do pieczenia - 2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szczypta soli", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Mokre:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Maślanka - 1 i 1/4 szklanki (300 ml)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Duże jajko - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Roztopione masło - 3 łyżki (45 g)", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużej misce wymieszaj wszystkie suche składniki: mąkę, cukier, proszek do pieczenia i sól.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W drugiej misce roztrzep jajko, dodaj maślankę i roztopione masło. Wymieszaj do połączenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wlej mokre składniki do suchych i wymieszaj tylko do momentu, aż się połączą. ", "styles": ["inline-bold"] }, { "text": "Nie mieszaj za długo! Grudki są w porządku.", "styles": ["inline-bold", "inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rozgrzej patelnię z nieprzywierającą powłoką na średnim ogniu. Smaż placki (ok. 1/4 szklanki ciasta na jeden) przez 2-3 minuty z jednej strony, aż na powierzchni pojawią się bąbelki. Przewróć i smaż jeszcze 1-2 minuty.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj natychmiast, ułożone w stos, polane syropem klonowym i z ulubionymi owocami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 3,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Szakszuka Klasyczna", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Aromatyczne danie prosto z Bliskiego Wschodu. Jajka gotowane w gęstym, pomidorowym sosie z papryką i przyprawami. Idealne na leniwe, weekendowe śniadanie.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa z oliwek - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt., pokrojona w kostkę", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona papryka - 1 szt., pokrojona w paski", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 2 ząbki, posiekane", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pomidory krojone w puszce - 1 puszka (400g)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kumin (kmin rzymski) - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Słodka papryka w proszku - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeża kolendra lub pietruszka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: ser feta", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na dużej patelni rozgrzej oliwę. Dodaj cebulę i paprykę, smaż aż zmiękną (ok. 5-7 minut).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj czosnek i przyprawy (kumin, paprykę), smaż przez minutę, aż zaczną pachnieć.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wlej pomidory z puszki, rozgnieć je łyżką. Dopraw solą i pieprzem. Gotuj na małym ogniu przez 10 minut, aż sos zgęstnieje.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zrób w sosie 4 wgłębienia i wbij do każdego po jednym jajku. Przykryj patelnię i gotuj przez 5-8 minut, aż białka się zetną, a żółtka pozostaną płynne.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Posyp świeżą kolendrą/pietruszką i pokruszoną fetą. Podawaj gorące, prosto z patelni, ze świeżym pieczywem do maczania w sosie.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 4,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Idealna Owsianka Nocna", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Śniadanie, które robi się samo, gdy śpisz! Rano wystarczy wyjąć z lodówki i dodać ulubione dodatki. Zdrowo, szybko i pysznie.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Baza", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Płatki owsiane górskie - 1/2 szklanki (50 g)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko (krowie lub roślinne) - 1/2 szklanki (125 ml)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jogurt naturalny lub grecki - 1/2 szklanki (125 g)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Nasiona chia - 1 łyżka", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Słodzidło (miód, syrop klonowy) - 1-2 łyżeczki", "styles": [] }] },
+      { "block_style": "header-h3", "content": [{ "text": "Propozycje dodatków:", "styles": [] }] },
+      { "block_style": "list-bullet", "content": [{ "text": "Świeże owoce: banany, jagody, maliny, truskawki", "styles": [] }] },
+      { "block_style": "list-bullet", "content": [{ "text": "Orzechy i nasiona: migdały, orzechy włoskie, pestki dyni", "styles": [] }] },
+      { "block_style": "list-bullet", "content": [{ "text": "Wiórki kokosowe, masło orzechowe, gorzka czekolada", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W słoiku lub misce wymieszaj wszystkie składniki bazowe: płatki, mleko, jogurt, nasiona chia i słodzidło.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Upewnij się, że wszystkie składniki są dobrze połączone. Zamknij słoik lub przykryj miskę folią.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wstaw do lodówki na co najmniej 4 godziny, a najlepiej na całą noc.", "styles": ["inline-bold", "inline-highlight-theme"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rano wyjmij owsiankę z lodówki, wymieszaj. Jeśli jest za gęsta, dodaj odrobinę mleka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na wierzch dodaj swoje ulubione dodatki i ciesz się pysznym, zdrowym śniadaniem!", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 5,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Tosty Francuskie (French Toast)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Prosty sposób na wykorzystanie czerstwego pieczywa i zamienienie go w dekadenckie, słodkie śniadanie. Miękkie w środku, chrupiące na zewnątrz.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Grube kromki czerstwego chleba (chałka, brioszka) - 4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cynamon - 1/2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ekstrakt waniliowy - 1/2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - do smażenia", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dodatki: cukier puder, syrop klonowy, owoce", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W płytkim, szerokim naczyniu (np. głębokim talerzu) roztrzep jajka z mlekiem, cynamonem i ekstraktem waniliowym.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Każdą kromkę chleba zanurz w masie jajecznej na około 20-30 sekund z każdej strony, tak aby chleb nasiąkł, ale nie rozpadł się.", "styles": [] }] },
+      {
+        "block_style": "box-warning",
+        "content": [
+          { "block_style": "header-h3", "content": [{ "text": "Uwaga!", "styles": [] }] },
+          { "block_style": "paragraph", "content": [{ "text": "Zbyt długie moczenie, zwłaszcza świeżego pieczywa, spowoduje, że tosty będą rozmokłe i trudne do usmażenia.", "styles": [] }] }
+        ]
+      },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej łyżkę masła na średnim ogniu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Smaż tosty po 2-3 minuty z każdej strony, aż będą złocistobrązowe i chrupiące.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj natychmiast, posypane cukrem pudrem, polane syropem klonowym i z ulubionymi owocami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 6,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Grzanki z Awokado i Jajkiem w Koszulce", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Śniadaniowy hit Instagrama, ale w wersji doskonałej. Chrupiąca grzanka, kremowe awokado i idealnie płynne żółtko.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dobrej jakości chleb (np. na zakwasie) - 2 grube kromki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dojrzałe awokado - 1 szt.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet spirytusowy lub winny - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z cytryny - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Płatki chili, sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Krok 1: Jajka w koszulkach", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zagotuj wodę. Zmniejsz ogień, tak aby woda tylko delikatnie 'mrugała'. Dodaj ocet.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jajko wbij do małej miseczki. W wodzie zrób wir za pomocą łyżki i delikatnie wlej jajko w jego środek. Gotuj 3 minuty. Wyjmij łyżką cedzakową.", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Krok 2: Grzanki i awokado", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Chleb opiecz w tosterze lub na suchej patelni na złoty kolor.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Awokado rozgnieć widelcem, wymieszaj z sokiem z cytryny, solą i pieprzem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Posmaruj ciepłe grzanki pastą z awokado. Na każdej ułóż jajko w koszulce.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Całość posyp płatkami chili i świeżo mielonym pieprzem. Podawaj od razu.", "styles": ["inline-bold"] }] }
+    ]
+  },
+  {
+    "id": 7,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Placuszki z serka wiejskiego (Proteinowe)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Puszyste, delikatne i pełne białka. Świetna alternatywa dla tradycyjnych placków. Idealne dla osób aktywnych fizycznie.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Serek wiejski (opakowanie) - 200g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka (pszenna lub owsiana) - 4 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Proszek do pieczenia - 1/2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Słodzidło (erytrytol, cukier) - 1-2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej kokosowy lub masło - do smażenia", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wszystkie składniki (serek, jajka, mąkę, proszek, słodzidło) umieść w misce.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj na gładką masę za pomocą blendera ręcznego. Jeśli nie masz blendera, dokładnie wymieszaj widelcem.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej niewielką ilość tłuszczu. Nakładaj porcje ciasta (ok. 1 duża łyżka na placek).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Smaż na średnim ogniu przez około 2 minuty z każdej strony, aż placuszki będą złociste i wyrośnięte.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z jogurtem, świeżymi owocami lub musem owocowym.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 8,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Domowa Granola z Orzechami i Miodem", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Chrupiąca, aromatyczna i o wiele zdrowsza niż sklepowa. Przygotuj raz, a będziesz mieć zapas na wiele śniadań.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Płatki owsiane górskie - 3 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mieszanka ulubionych orzechów i nasion - 1.5 szklanki", "styles": ["inline-bold"] }, { "text": "(migdały, orzechy włoskie, pekan, pestki dyni, słonecznik)", "styles": ["inline-italic"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej kokosowy - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Miód lub syrop klonowy - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cynamon - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szczypta soli", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: suszone owoce (rodzynki, żurawina) - 1 szklanka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 160°C. Dużą blachę wyłóż papierem do pieczenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużej misce wymieszaj płatki owsiane, orzechy i nasiona.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W małym rondelku podgrzej olej kokosowy, miód/syrop, cynamon i sól, aż wszystko się połączy. Nie gotuj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wlej mokre składniki do suchych i bardzo dokładnie wymieszaj, tak aby każdy płatek był pokryty.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rozsyp granolę równomiernie na blasze. Piecz przez 20-25 minut, mieszając w połowie czasu, aż będzie złocista.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyjmij z piekarnika i całkowicie ostudź. Granola stanie się chrupiąca podczas stygnięcia. Jeśli używasz suszonych owoców, dodaj je teraz.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przechowuj w szczelnym słoiku. Podawaj z mlekiem lub jogurtem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 9,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Omlet Hiszpański (Tortilla Española)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Solidny, sycący omlet z ziemniakami i cebulą. To danie, które w Hiszpanii jada się o każdej porze, ale na śniadanie sprawdza się wybornie.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 3-4 średnie szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Duża cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 6 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa z oliwek - ok. 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ziemniaki i cebulę obierz i pokrój w cienkie plasterki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na głębokiej patelni rozgrzej obficie oliwę. Wrzuć ziemniaki i cebulę, posól. Smaż na małym ogniu, często mieszając, przez 15-20 minut, aż będą miękkie, ale nie brązowe. To bardziej 'gotowanie w oliwie' niż smażenie.", "styles": ["inline-italic"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużej misce roztrzep jajka, dopraw solą. Odcedź ziemniaki i cebulę z nadmiaru oliwy i dodaj do jajek. Delikatnie wymieszaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na tej samej patelni zostaw odrobinę oliwy. Wlej masę jajeczno-ziemniaczaną i smaż na małym ogniu przez 5-6 minut, aż spód się zetnie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Teraz najtrudniejszy manewr: przykryj patelnię dużym talerzem i szybkim, pewnym ruchem odwróć całość. Zsuń tortillę z powrotem na patelnię, aby smażyła się z drugiej strony przez kolejne 3-4 minuty.", "styles": ["inline-bold", "inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zsuń gotową tortillę na talerz. Można podawać na ciepło lub na zimno, pokrojoną w trójkąty.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 10,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zielone Smoothie Mocy", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Bomba witaminowa na start dnia. Słodkie owoce idealnie maskują smak szpinaku, tworząc pyszny i orzeźwiający koktajl.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dojrzały banan - 1 szt. (najlepiej mrożony)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeży szpinak - 2 duże garście", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pół awokado", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko migdałowe lub woda kokosowa - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło orzechowe lub migdałowe - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: miarka odżywki białkowej", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wszystkie składniki umieść w kielichu blendera o dużej mocy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Blenduj na najwyższych obrotach przez około 1-2 minuty, aż koktajl będzie idealnie gładki i kremowy, bez żadnych grudek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jeśli smoothie jest za gęste, dodaj więcej płynu. Jeśli za rzadkie, dodaj więcej banana lub lodu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przelej do wysokiej szklanki i pij od razu, aby cieszyć się pełnią witamin.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 11,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Gofry bąbelkowe (Bubble Waffles)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Hit street foodu prosto z Hong Kongu. Chrupiące na zewnątrz, miękkie i puszyste w środku. Idealne do zwinięcia w rożek i napełnienia lodami oraz owocami.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 1 szklanka (150g)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka ziemniaczana - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Proszek do pieczenia - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej roślinny - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ekstrakt waniliowy - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wymagają specjalnej gofrownicy do gofrów bąbelkowych.", "styles": ["inline-bold", "inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce połącz suche składniki: obie mąki, proszek do pieczenia i cukier.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W drugiej misce roztrzep jajka, dodaj mleko, wodę, olej i ekstrakt waniliowy. Wymieszaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Połącz zawartość obu misek i wymieszaj rózgą na gładkie, dość rzadkie ciasto. Odstaw na 15 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rozgrzej gofrownicę. Posmaruj ją lekko olejem. Wlej porcję ciasta, zamknij i piecz około 3-5 minut, aż gofry będą złote i chrupiące.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorącego gofra od razu zwiń w rożek i odstaw do ostygnięcia. Napełnij ulubionymi dodatkami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 12,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Naleśniki Crepes Suzette", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Francuski deser, który idealnie nadaje się na luksusowe śniadanie. Cienkie naleśniki skąpane w karmelowo-pomarańczowym sosie.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Naleśniki:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 1.5 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szczypta soli", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 2 łyżki, roztopione", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Sos:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 100g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok i skórka otarta z 2 pomarańczy", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Likier pomarańczowy (np. Grand Marnier) - 50 ml", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przygotuj ciasto na naleśniki, mieszając wszystkie składniki i odstawiając na 30 minut. Usmaż cienkie naleśniki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na dużej patelni rozpuść masło do sosu. Wsyp cukier i podgrzewaj, aż się skarmelizuje.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ostrożnie wlej sok i skórkę z pomarańczy. Mieszaj, aż karmel się rozpuści. Gotuj, aż sos lekko zgęstnieje.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Każdy naleśnik złóż na cztery. Zanurzaj je w gorącym sosie na patelni.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na koniec wlej likier. Możesz go podpalić (flambirować) dla efektu. Podawaj natychmiast.", "styles": ["inline-bold"] }] }
+    ]
+  },
+  {
+    "id": 13,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Frittata ze Szpinakiem i Kozim Serem", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Włoski omlet zapiekany w piekarniku. Prosty w przygotowaniu, a wygląda bardzo efektownie. Można go jeść na ciepło i na zimno.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 8 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeży szpinak - 200g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kozi ser (roladka) - 100g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 1 ząbek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietanka 18% - 1/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa z oliwek", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 180°C. Użyj patelni, którą można wkładać do piekarnika.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni zeszklij posiekaną cebulę na oliwie. Dodaj czosnek i szpinak. Smaż, aż szpinak 'zwiędnie'. Zdejmij z ognia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce roztrzep jajka ze śmietanką, solą i pieprzem. Dodaj podsmażony szpinak i pokruszoną połowę koziego sera.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przelej masę jajeczną z powrotem na patelnię. Na wierzchu ułóż resztę sera w plasterkach.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Smaż na małym ogniu przez 2-3 minuty, a następnie wstaw do piekarnika na 15-20 minut, aż frittata będzie ścięta i lekko zarumieniona.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 14,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Jaglanka na Mleku Kokosowym z Mango", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Egzotyczna i zdrowa alternatywa dla owsianki. Kasza jaglana gotowana na kremowym mleku kokosowym, podana ze słodkim mango.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sucha kasza jaglana - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko kokosowe (z puszki) - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szczypta soli i kurkumy (dla koloru)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dojrzałe mango - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Wiórki kokosowe i listki mięty do dekoracji", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      {
+        "block_style": "box-info",
+        "content": [
+          { "block_style": "paragraph", "content": [{ "text": "Kaszę jaglaną należy sparzyć wrzątkiem na sicie, aby pozbyć się goryczki.", "styles": ["inline-bold"] }] }
+        ]
+      },
+      { "block_style": "list-ordered", "content": [{ "text": "Sparzoną kaszę wsyp do garnka. Zalej mlekiem kokosowym i wodą. Dodaj sól i kurkumę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj, a następnie zmniejsz ogień do minimum. Gotuj pod przykryciem przez 15-20 minut, aż kasza wchłonie cały płyn.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zdejmij z ognia i zostaw pod przykryciem na kolejne 10 minut, żeby doszła.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mango obierz i pokrój w kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj ciepłą jaglankę z porcją świeżego mango, posypaną wiórkami kokosowymi i udekorowaną miętą.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 15,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Tosty z Ricottą, Miodem i Orzechami", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Eleganckie, proste i zaskakująco pyszne śniadanie. Kremowa ricotta, słodki miód i chrupiące orzechy na chrupkiej grzance.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Chleb wiejski lub chałka - 2 grube kromki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser ricotta - 4-6 łyżek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Miód płynny (np. akacjowy) - 2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Orzechy włoskie lub pistacje - garść, posiekane", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: skórka otarta z cytryny", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Chleb opiecz w tosterze, piekarniku lub na patelni na złoty kolor.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ciepłe grzanki posmaruj hojnie ricottą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Polej całość miodem, starając się robić to cienką strużką.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Posyp posiekanymi orzechami i, jeśli używasz, odrobiną skórki z cytryny dla aromatu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj natychmiast, póki grzanki są jeszcze ciepłe.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 16,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Croque Monsieur - Francuska Kanapka Zapiekana", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "To nie jest zwykła kanapka z serem. To francuski klasyk bistro: zapiekany tost z szynką, serem Gruyère i aksamitnym sosem beszamelowym.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Chleb tostowy - 4 kromki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dobra szynka gotowana - 4 plastry", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser Gruyère, starty - 150g", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Musztarda Dijon - 2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Sos beszamelowy:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 3/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Gałka muszkatołowa, sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przygotuj beszamel: w rondelku rozpuść masło, dodaj mąkę i mieszaj przez minutę. Stopniowo wlewaj mleko, cały czas mieszając, aż sos zgęstnieje. Dopraw solą, pieprzem i gałką muszkatołową.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 200°C z funkcją grilla.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dwie kromki chleba posmaruj musztardą Dijon. Na każdej połóż plaster szynki i porcję startego sera. Przykryj pozostałymi kromkami.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wierzch kanapek posmaruj obficie sosem beszamelowym i posyp resztą sera Gruyère.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zapiekaj w piekarniku przez 10-15 minut, aż ser się rozpuści i pięknie zarumieni. Podawaj gorące.", "styles": [] }] },
+      {
+        "block_style": "box-info",
+        "content": [
+          { "block_style": "paragraph", "content": [{ "text": "Wersja z jajkiem sadzonym na wierzchu to ", "styles": [] }, { "text": "Croque Madame.", "styles": ["inline-bold", "inline-italic"] }] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Owsianka Pieczona a'la Szarlotka", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Zdrowe śniadanie, które smakuje jak deser. Zapiekane płatki owsiane z jabłkami, cynamonem i chrupiącą kruszonką. Można przygotować na kilka dni.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Płatki owsiane górskie - 2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jabłka - 2 duże, pokrojone w kostkę", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajko - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Syrop klonowy - 1/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cynamon - 2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Proszek do pieczenia - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Orzechy włoskie, posiekane - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik nagrzej do 190°C. Naczynie żaroodporne (ok. 20x20cm) wysmaruj masłem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużej misce wymieszaj płatki, połowę orzechów, proszek do pieczenia i 1 łyżeczkę cynamonu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na dno naczynia wyłóż pokrojone jabłka. Posyp je resztą cynamonu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W drugiej misce roztrzep jajko, dodaj mleko i syrop klonowy. Wymieszaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mieszankę płatków wysyp na jabłka. Zalej wszystko masą mleczno-jajeczną. Posyp resztą orzechów.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez 35-45 minut, aż owsianka będzie ścięta, a wierzch złocisty. Podawaj na ciepło, np. z kleksem jogurtu.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 18,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Angielskie Muffiny Śniadaniowe", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "To nie są słodkie babeczki! To płaskie, drożdżowe bułeczki, idealne do tostowania i serwowania z jajkiem sadzonym i bekonem, tworząc klasyczną kanapkę McMuffin.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 3.5 szklanki (500g)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Drożdże instant - 2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ciepłe mleko - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ciepła woda - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło, roztopione - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kaszka kukurydziana lub semolina - do obsypania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce wymieszaj mąkę, drożdże, cukier i sól. Dodaj mleko, wodę i masło. Zagnieć gładkie, elastyczne ciasto (ok. 10 minut).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj i odstaw w ciepłe miejsce na 1-1.5 godziny, do podwojenia objętości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ciasto rozwałkuj na grubość ok. 1.5 cm. Wycinaj krążki o średnicy 8-10 cm. Ułóż je na blasze posypanej kaszką kukurydzianą, przykryj i odstaw na 30 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rozgrzej dużą, suchą patelnię na średnim ogniu. Smaż muffiny po 5-8 minut z każdej strony, aż będą złote i wypieczone w środku.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ostudź na kratce. Przed podaniem przekrój na pół i podpiecz w tosterze.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 19,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Śniadaniowe Burrito z Jajecznicą i Chorizo", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Syte, pikantne i pełne smaku. Idealne śniadanie 'na wynos' lub po ciężkim poranku. Wszystkie najlepsze składniki zawinięte w placek tortilli.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Duże placki tortilli - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kiełbasa chorizo - 100g, pokrojona w kostkę", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona cebula - 1/2 szt., posiekana", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czarna fasola z puszki - 1/2 szklanki, opłukana", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser cheddar, starty - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: awokado, kwaśna śmietana, salsa", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni podsmaż chorizo, aż wytopi się tłuszcz. Dodaj cebulę i smaż do zeszklenia. Zdejmij z patelni, zostawiając tłuszcz.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na tej samej patelni usmaż jajecznicę. Pod koniec dodaj chorizo z cebulą, fasolę i ser. Mieszaj, aż ser się rozpuści.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Placki tortilli podgrzej na suchej patelni lub w mikrofalówce, aby stały się elastyczne.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na środek każdej tortilli nałóż porcję farszu. Opcjonalnie dodaj plasterki awokado.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zawiń burrito: najpierw załóż boki do środka, a następnie zwiń ciasno od dołu. Możesz je na chwilę przypiec na patelni, aby się zamknęło.", "styles": ["inline-bold"] }] }
+    ]
+  },
+  {
+    "id": 20,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Placuszki Bananowe (Dwa Składniki)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Najprostszy przepis na świecie na zdrowe, bezglutenowe i bezcukrowe placuszki. Potrzebujesz tylko banana i jajek!", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bardzo dojrzały banan - 1 duży", "styles": ["inline-bold", "inline-highlight"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: szczypta cynamonu, 1/4 szklanki mąki owsianej (dla lepszej struktury)", "styles": ["inline-italic"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej kokosowy do smażenia", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      {
+        "block_style": "box-warning",
+        "content": [
+          { "block_style": "paragraph", "content": [{ "text": "Kluczem do sukcesu jest bardzo dojrzały, niemal czarny banan. Im bardziej dojrzały, tym słodsze i łatwiejsze do połączenia będą placuszki.", "styles": [] }] }
+        ]
+      },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce rozgnieć banana widelcem na gładką papkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj jajka i (opcjonalnie) cynamon. Dokładnie wymieszaj, aż powstanie jednolite, dość rzadkie ciasto.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej odrobinę oleju kokosowego na małym/średnim ogniu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wylewaj małe porcje ciasta (są delikatne, więc łatwiej smażyć małe placuszki). Smaż ok. 2 minuty, aż brzegi się zetną. Ostrożnie przewróć i smaż kolejną minutę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z jogurtem, świeżymi owocami lub masłem orzechowym.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 21,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Chleb w Jajku z Serem i Pieczarkami", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Wytrawna wersja tostów francuskich, czyli klasyka polskiego śniadania w podrasowanej wersji. Sycące, szybkie i pyszne.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kromki chleba tostowego lub pszennego - 4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pieczarki - 150g, pokrojone w plasterki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1/2 szt., posiekana", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser żółty, starty - 100g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - do smażenia", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej łyżkę masła. Zeszklij cebulę, dodaj pieczarki i smaż, aż odparuje z nich woda i się zarumienią. Zdejmij z patelni.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce roztrzep jajka z mlekiem, solą i pieprzem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na dwóch kromkach chleba rozłóż podsmażone pieczarki i posyp startym serem. Przykryj pozostałymi kromkami.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Każdą kanapkę zanurz w masie jajecznej z obu stron, pozwalając, aby chleb lekko nasiąkł.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na czystej patelni rozgrzej masło. Smaż kanapki na średnim ogniu po 3-4 minuty z każdej strony, aż będą złote, a ser w środku się rozpuści.", "styles": ["inline-bold"] }] }
+    ]
+  },
+  {
+    "id": 22,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pudding Chia na Mleku Kokosowym", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Zdrowy, wegański i bezglutenowy deser, który idealnie sprawdza się jako śniadanie. Gęsty, żelowy pudding z super-nasion chia.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Nasiona chia - 1/4 szklanki (4 łyżki)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko kokosowe (z kartonu lub puszki light) - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Syrop klonowy lub miód - 1-2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ekstrakt waniliowy - 1/2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dodatki: mus owocowy, świeże owoce, orzechy", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W słoiku lub misce połącz nasiona chia, mleko kokosowe, syrop klonowy i wanilię.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Bardzo energicznie wymieszaj całość za pomocą trzepaczki lub widelca przez około minutę, aby rozbić wszystkie grudki.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Odstaw na 5-10 minut, a następnie ponownie energicznie wymieszaj. To zapobiegnie osadzaniu się nasion na dnie.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj i wstaw do lodówki na co najmniej 2-3 godziny, a najlepiej na całą noc, aby pudding zgęstniał.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj na zimno, udekorowany musem owocowym (np. z mango lub malin) i świeżymi owocami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 23,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Twarożek ze Szczypiorkiem i Rzodkiewką", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Absolutna klasyka polskiej kuchni śniadaniowej. Prosty, świeży i pełen smaku twarożek, który idealnie komponuje się z chrupiącym pieczywem.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Twaróg półtłusty lub tłusty - kostka 250g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jogurt naturalny lub śmietana 18% - 3-4 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pęczek rzodkiewek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pęczek szczypiorku", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz do smaku", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Twaróg przełóż do miski i rozgnieć widelcem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj jogurt lub śmietanę i mieszaj, aż uzyskasz pożądaną konsystencję. Niektórzy wolą gęstszy, inni bardziej kremowy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rzodkiewki umyj i zetrzyj na tarce o grubych oczkach lub pokrój w drobną kostkę. Szczypiorek drobno posiekaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj warzywa do twarogu. Dopraw solidnie solą i świeżo mielonym pieprzem.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dokładnie wymieszaj. Podawaj ze świeżym chlebem lub bułką.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 24,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Gofry Drożdżowe Belgijskie (Liège)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "To nie są zwykłe gofry. To gęste, drożdżowe ciasto z wtopionymi kryształkami cukru perlistego, które karmelizują się podczas pieczenia, tworząc chrupiącą skorupkę. Absolutnie uzależniające.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 4 szklanki (600g)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Drożdże instant - 2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ciepłe mleko - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 duże", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło, miękkie - 200g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier perlisty - 1 szklanka", "styles": ["inline-bold", "inline-highlight-theme"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misie miksera połącz mąkę, drożdże, sól. Dodaj mleko i jajka. Wyrabiaj ciasto przez kilka minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Stopniowo dodawaj miękkie masło, kawałek po kawałku, cały czas wyrabiając, aż ciasto będzie gładkie i elastyczne.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj i odstaw w ciepłe miejsce na 1.5 godziny do wyrośnięcia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Po wyrośnięciu delikatnie wmieszaj w ciasto cukier perlisty. Podziel ciasto na 12-16 kulek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rozgrzej gofrownicę. Piecz każdą kulkę ciasta przez 3-5 minut, aż gofry będą głęboko złote, a cukier skarmelizowany. Podawaj same, są idealne!", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 25,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Sałatka Śniadaniowa z Jajkiem i Bekonem", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Kto powiedział, że sałatka nie jest na śniadanie? Ta wersja z chrupiącym bekonem, jajkiem na miękko i kremowym sosem z awokado to pełnowartościowy i pyszny posiłek.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mieszanka sałat - 2 duże garście", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Boczek wędzony - 4 plastry", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pomidorki koktajlowe - garść, przekrojone na pół", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona cebula - kilka plasterków", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Dressing z awokado:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dojrzałe awokado - 1/2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jogurt naturalny - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z cytryny, sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Plastry boczku usmaż na chrupko na suchej patelni. Odsącz na ręczniku papierowym i połam na mniejsze kawałki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jajka ugotuj na miękko (ok. 5-6 minut we wrzątku). Obierz i przekrój na pół.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przygotuj dressing: zblenduj awokado z jogurtem, sokiem z cytryny, solą i pieprzem na gładki sos. Możesz dodać odrobinę wody dla rzadszej konsystencji.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce ułóż sałatę, pomidorki i cebulę. Na wierzchu połóż połówki jajek i posyp chrupiącym boczkiem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Polej całość dressingiem z awokado tuż przed podaniem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 26,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Racuchy z Jabłkami jak u Babci", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Puszyste, drożdżowe placuszki z kawałkami soczystych jabłek. Smak dzieciństwa, który idealnie pasuje na weekendowe, niespieszne śniadanie.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ciepłe mleko - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Drożdże świeże - 25g (lub 7g instant)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajko - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Duże, kwaśne jabłka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej do smażenia", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier puder do posypania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zrób rozczyn: drożdże rozpuść w ciepłym (nie gorącym!) mleku z łyżką cukru i łyżką mąki. Odstaw na 15 minut w ciepłe miejsce, aż 'ruszy'.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do dużej miski przesiej mąkę, dodaj resztę cukru i jajko. Wlej wyrośnięty rozczyn i wymieszaj na gładkie ciasto. Przykryj i odstaw na godzinę do wyrośnięcia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jabłka obierz, usuń gniazda nasienne i pokrój w cienkie plasterki lub małą kostkę. Dodaj do wyrośniętego ciasta i delikatnie wymieszaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej większą ilość oleju. Łyżką nakładaj porcje ciasta i smaż na złoty kolor z obu stron na średnim ogniu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Odsącz na ręczniku papierowym i obficie posyp cukrem pudrem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 27,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kaszka Manna na Mleku z Sokiem Malinowym", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Kolejny powrót do smaków dzieciństwa. Aksamitna, gęsta kaszka manna polana domowym sokiem malinowym. Komfortowe jedzenie w najczystszej postaci.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kasza manna - 4-5 łyżek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 łyżka (lub do smaku)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok malinowy (najlepiej domowy) - do polania", "styles": ["inline-bold"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnuszku zagotuj 1.5 szklanki mleka z cukrem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W pozostałej 1/2 szklanki zimnego mleka dokładnie rozmieszaj kaszę mannę, tak aby nie było grudek.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gdy mleko w garnku zacznie wrzeć, zmniejsz ogień i cienką strużką wlewaj rozmieszaną kaszę, cały czas energicznie mieszając trzepaczką.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gotuj na małym ogniu przez 2-3 minuty, nie przestając mieszać, aż kaszka zgęstnieje.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zdejmij z ognia, dodaj masło i wymieszaj. Przelej do miseczki i obficie polej sokiem malinowym.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 28,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Omlet biszkoptowy na słodko", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Niezwykle puszysty i delikatny omlet, który bardziej przypomina ciasto niż tradycyjne danie jajeczne. Sekretem jest ubicie białek na sztywną pianę.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 duże", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szczypta soli", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - do smażenia", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Nadzienie: dżem, twarożek, świeże owoce", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Oddziel żółtka od białek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Żółtka utrzyj z cukrem na jasną, puszystą masę. Dodaj mąkę i wymieszaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Białka ubij ze szczyptą soli na sztywną pianę.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Delikatnie, za pomocą szpatułki, wmieszaj pianę z białek do masy żółtkowej. Rób to w 2-3 partiach, aby piana nie opadła.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej masło na małym ogniu. Wylej masę i smaż pod przykryciem przez 4-5 minut, aż spód będzie złoty, a wierzch ścięty.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na jedną połowę omletu wyłóż nadzienie, złóż na pół i zsuń na talerz. Posyp cukrem pudrem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 29,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Śniadaniowy Wrap z Jajecznicą i Łososiem", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Elegancka i szybka propozycja na pożywne śniadanie. Kremowa jajecznica, wędzony łosoś i świeży koperek zawinięte w placek tortilli.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Placek tortilli - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Serek śmietankowy (typu Almette) - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Wędzony łosoś w plastrach - 50g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeży koperek, posiekany", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Usmaż kremową jajecznicę z 2 jajek na maśle. Pod koniec smażenia dodaj posiekany koperek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podgrzej placek tortilli na suchej patelni.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ciepły placek posmaruj serkiem śmietankowym.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na środku ułóż plastry wędzonego łososia, a na to wyłóż ciepłą jajecznicę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zawiń ciasno, najpierw boki, potem dół. Przekrój na pół i podawaj.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 30,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pasta Jajeczna z Awokado", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Zdrowsza wersja klasycznej pasty jajecznej, w której majonez zastępujemy kremowym awokado. Pyszna, pożywna i pełna dobrych tłuszczów.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka ugotowane na twardo - 4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dojrzałe awokado - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona cebula - 1/4 szt., bardzo drobno posiekana", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z połowy limonki lub cytryny", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: szczypiorek, odrobina musztardy Dijon", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jajka obierz i drobno posiekaj lub rozgnieć widelcem w misce.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Awokado przekrój na pół, wyjmij pestkę, miąższ przełóż do miski z jajkami.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rozgnieć awokado widelcem i wymieszaj z jajkami. Dodaj sok z cytryny, aby awokado nie ściemniało.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj posiekaną cebulę, (opcjonalnie szczypiorek i musztardę). Dopraw do smaku solą i pieprzem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dokładnie wymieszaj. Podawaj na pieczywie, waflach ryżowych lub jako farsz do kanapek.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 31,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Ryż na Mleku z Cynamonem i Jabłkami", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Kremowy, słodki ryż gotowany na mleku, podany z duszonymi jabłkami i cynamonem. Danie, które otula ciepłem i przywołuje najlepsze wspomnienia.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ryż do risotto (Arborio) lub zwykły biały - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 2.5 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier waniliowy - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jabłka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cynamon - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 1 łyżka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ryż opłucz na sicie. W garnku zagotuj mleko z cukrem waniliowym. Wsyp ryż, zmniejsz ogień i gotuj pod przykryciem ok. 25-30 minut, aż ryż będzie miękki i wchłonie mleko. Mieszaj od czasu do czasu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W międzyczasie jabłka obierz, pokrój w kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej masło, wrzuć jabłka, posyp cynamonem i duś, aż zmiękną.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gotowy ryż przełóż do miseczek. Na wierzch nałóż porcję gorących jabłek.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 32,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Mini Quiche (Kisz) z Boczkiem i Porem", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Idealne na śniadanie do pracy lub na wynos. Małe, wytrawne babeczki na kruchym spodzie z jajecznym nadzieniem. Można je przygotować dzień wcześniej.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Ciasto:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Gotowe ciasto francuskie lub kruche - 1 arkusz", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Nadzienie:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietana 30% - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Boczek wędzony w kostce - 100g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Por (biała część) - 1 szt., pokrojony w plasterki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser Gruyère lub cheddar, starty - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 190°C. Formę do muffinów wysmaruj masłem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Z ciasta wytnij kółka nieco większe niż otwory w formie. Wylep nimi gniazda, tworząc małe miseczki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni podsmaż boczek. Gdy będzie chrupiący, dodaj pora i smaż do zeszklenia. Zdejmij z ognia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce roztrzep jajka ze śmietaną, dodaj ser, boczek z porem, sól i pieprz. Wymieszaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Napełnij miseczki z ciasta masą jajeczną. Piecz 20-25 minut, aż nadzienie się zetnie, a ciasto będzie złote.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 33,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Szybkie Bułeczki Śniadaniowe Bez Wyrabiania", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Chcesz mieć świeże, ciepłe pieczywo na śniadanie, ale nie masz czasu na wyrabianie ciasta? To przepis dla Ciebie. Ciasto robi się wieczorem w 5 minut.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 3 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Drożdże instant - 1/4 łyżeczki", "styles": ["inline-bold", "inline-highlight"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1.5 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Letnia woda - 1.5 szklanki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Wieczorem:", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużej misce wymieszaj mąkę, drożdże i sól. Wlej wodę i wymieszaj łyżką tylko do połączenia składników. Ciasto będzie lepkie i brzydkie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj miskę folią i zostaw na blacie na całą noc (12-18 godzin).", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Rano:", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 220°C. Ciasto wyłóż na obsypany mąką blat. Uformuj kulę, a następnie podziel na 8-10 części.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Uformuj bułeczki i ułóż je na blasze wyłożonej papierem do pieczenia. Piecz 15-20 minut, aż będą rumiane.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 34,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pasta z Wędzonej Makreli i Jajek", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Intensywna w smaku, pełna białka i kwasów omega-3. Doskonała pasta kanapkowa, która sprawi, że nawet zwykły chleb stanie się wykwintnym daniem.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Wędzona makrela - 1 szt. (ok. 200g)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka ugotowane na twardo - 3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula dymka ze szczypiorkiem - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ogórek konserwowy - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majonez - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Musztarda - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Makrelę dokładnie obierz ze skóry i ości. Mięso przełóż do miski i rozdrobnij widelcem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jajka, cebulę dymkę i ogórki pokrój w bardzo drobną kostkę. Szczypiorek posiekaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wszystkie pokrojone składniki dodaj do makreli. Dodaj majonez i musztardę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dokładnie wymieszaj. Dopraw do smaku solą i obficie świeżo mielonym pieprzem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 35,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Owsiane Ciasteczka Śniadaniowe", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Śniadanie w formie ciastka? Czemu nie! Te ciastka są pełne błonnika, orzechów i suszonych owoców. Idealne, gdy spieszysz się rano.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dojrzałe banany - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Płatki owsiane błyskawiczne - 1.5 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło orzechowe - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mieszanka bakalii (orzechy, żurawina, pestki) - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cynamon - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 180°C. Blachę wyłóż papierem do pieczenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce rozgnieć banany na papkę. Dodaj masło orzechowe i wymieszaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj płatki owsiane, bakalie i cynamon. Wymieszaj wszystko na gęstą, lepką masę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Łyżką nakładaj porcje masy na blachę, formując płaskie ciastka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez 12-15 minut, aż brzegi będą lekko zarumienione. Ostudź na kratce.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 36,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Smoothie Bowl (Miska Smoothie)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gęste, kremowe smoothie podane w misce, które jemy łyżką. Dowolność dodatków na wierzchu sprawia, że to śniadanie nigdy się nie nudzi i wygląda przepięknie.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Baza", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mrożone banany - 2 szt.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mrożone owoce (np. jagody, truskawki, mango) - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko roślinne - 1/4 szklanki (tylko tyle, by blender ruszył)", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Toppingi (propozycje):", "styles": [] }] },
+      { "block_style": "list-bullet", "content": [{ "text": "Świeże owoce, granola, wiórki kokosowe, nasiona chia, orzechy, masło orzechowe", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W blenderze o dużej mocy umieść mrożone banany, mrożone owoce i odrobinę mleka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Blenduj na niskich obrotach, pomagając sobie popychaczem (tamper), aż owoce zaczną się rozdrabniać. Stopniowo zwiększaj obroty. Blenduj, aż uzyskasz gęstą, gładką masę o konsystencji lodów.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przełóż masę do miski.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Udekoruj artystycznie wierzch wybranymi toppingami, tworząc paski i wzory.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 37,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Jajka po Turecku (Çılbır)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Niezwykłe połączenie smaków: kremowy jogurt czosnkowy, jajka w koszulce i gorące, aromatyczne masło z papryką. Podawane ze świeżym pieczywem.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jogurt grecki - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 1 ząbek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Płatki papryki Aleppo lub ostrej/słodkiej - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeży koperek lub mięta", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jogurt wymieszaj z przeciśniętym przez praskę czosnkiem i szczyptą soli. Rozsmaruj na dnie talerza.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ugotuj jajka w koszulkach (patrz przepis nr 6) i delikatnie ułóż je na jogurcie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na małej patelni rozpuść masło. Gdy zacznie się pienić, dodaj płatki papryki i podgrzewaj przez 30 sekund, aż masło nabierze koloru i aromatu.", "styles": ["inline-highlight-theme"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorącym, aromatycznym masłem polej jajka i jogurt. Posyp świeżymi ziołami.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj natychmiast z chlebem do maczania.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 38,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Bagietka z pastą z tuńczyka", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Szybkie, proste i sycące śniadanie lub drugie śniadanie. Klasyczna pasta z tuńczyka w nowej odsłonie, z dodatkiem kukurydzy i czerwonej cebuli.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Tuńczyk w sosie własnym - 1 puszka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka ugotowane na twardo - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kukurydza konserwowa - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona cebula - 1/4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majonez - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeża bagietka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Tuńczyka dokładnie odsącz z zalewy. Przełóż do miski.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jajka i cebulę pokrój w drobną kostkę. Dodaj do tuńczyka razem z kukurydzą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj majonez, sól i pieprz. Wymieszaj do połączenia składników.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pastą obficie smaruj kawałki świeżej bagietki.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 39,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kakaowa owsianka a'la Brownie", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Dla wszystkich miłośników czekolady. Zdrowe śniadanie, które smakuje jak płynne ciasto brownie. Gęste, kremowe i intensywnie kakaowe.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Płatki owsiane górskie - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Gorzke kakao - 2 łyżki", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Syrop klonowy lub miód - 1-2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szczypta soli", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dodatki: maliny, orzechy, kostka gorzkiej czekolady", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnuszku wymieszaj płatki, mleko, kakao, słodzidło i sól.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gotuj na średnim ogniu, często mieszając, aż owsianka zgęstnieje (ok. 5-7 minut).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przelej do miski. Na gorącą owsiankę połóż kostkę czekolady, aby się rozpuściła.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Udekoruj świeżymi malinami i posiekanymi orzechami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 40,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Jajka zapiekane w awokado", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Efektowne i proste danie śniadaniowe, idealne dla fanów diety keto i low-carb. Awokado służy jako naturalna foremka do zapiekania jajek.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Duże, dojrzałe awokado - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Małe jajka - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dodatki: boczek, szczypiorek, ser", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 200°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Awokado przekrój na pół i usuń pestkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Za pomocą łyżki wyjmij trochę miąższu z miejsca po pestce, tworząc większe wgłębienie. Chodzi o to, by zmieściło się jajko.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Połówki awokado ułóż w małym naczyniu żaroodpornym, aby stały stabilnie. Do każdego wgłębienia wbij jedno jajko.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw solą i pieprzem. Możesz posypać pokruszonym boczkiem lub serem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez 15-20 minut, aż białko będzie ścięte, a żółtko pozostanie lekko płynne.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 41,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Scones - Angielskie Bułeczki Maślane", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Podstawa brytyjskiego 'cream tea'. Szybkie w przygotowaniu, kruche i delikatne bułeczki, które najlepiej smakują na ciepło z gęstą śmietaną (clotted cream) i dżemem truskawkowym.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 2 szklanki (300g)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Proszek do pieczenia - 4 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1/2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Zimne masło - 85g, pokrojone w kostkę", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 3/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajko - do posmarowania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 220°C. Blachę wyłóż papierem do pieczenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce wymieszaj mąkę, proszek, cukier i sól. Dodaj zimne masło i rozcieraj palcami, aż powstaną okruchy przypominające mokry piasek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zrób wgłębienie i wlej mleko. Szybko zagnieć ciasto, tylko do połączenia składników. ", "styles": ["inline-highlight"] }, { "text": "Nie wyrabiaj za długo!", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przełóż na blat, rozwałkuj na grubość 2-3 cm. Wycinaj okrągłe bułeczki (średnica ok. 5 cm).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ułóż na blasze, posmaruj roztrzepanym jajkiem i piecz 12-15 minut, aż pięknie wyrosną i będą złote.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 42,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Meksykańskie Jajka (Huevos Rancheros)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Tradycyjne śniadanie meksykańskich farmerów. Jajka sadzone podane na ciepłej tortilli kukurydzianej z pikantnym sosem pomidorowym i fasolą.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 2-4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Małe tortille kukurydziane - 2-4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej - do smażenia", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Salsa pomidorowa (gotowa lub domowa) - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czarna lub pinto fasola, odcedzona - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dodatki: awokado, kolendra, ser cotija lub feta", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej olej. Smaż tortille po kilkanaście sekund z każdej strony, aż będą lekko chrupiące. Przełóż na talerze.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na tej samej patelni usmaż jajka sadzone, tak aby żółtko pozostało płynne.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W rondelku podgrzej salsę z fasolą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na każdej tortilli ułóż jajko sadzone. Polej obficie gorącym sosem z fasolą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Udekoruj plasterkami awokado, posiekaną kolendrą i pokruszonym serem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 43,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Cynamonowe Ślimaczki z Ciasta Francuskiego", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Ekspresowa wersja słynnych 'cinnamon rolls'. Dzięki gotowemu ciastu francuskiemu, te pachnące cynamonem ślimaczki przygotujesz w mniej niż 30 minut.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ciasto francuskie - 1 arkusz (prostokątny)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Miękkie masło - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Brązowy cukier - 1/3 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cynamon - 2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Lukier:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier puder - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 1-2 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 200°C.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rozwiń arkusz ciasta francuskiego. Posmaruj go równomiernie miękkim masłem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W miseczce wymieszaj brązowy cukier z cynamonem. Mieszanką posyp całą powierzchnię ciasta.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zwiń ciasto ciasno w roladę wzdłuż dłuższego boku. Pokrój na plastry o grubości ok. 2 cm.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ułóż ślimaczki na blasze wyłożonej papierem do pieczenia. Piecz 15-20 minut, aż będą złote i napuszone.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W międzyczasie przygotuj lukier, mieszając cukier puder z odrobiną mleka. Polej lekko przestudzone ślimaczki.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 44,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Wytrawne Gofry z Szynką i Serem", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gofry nie muszą być na słodko! Ta wersja z szynką, serem i szczypiorkiem, podana z jajkiem sadzonym, to rewelacyjny pomysł na obfite, weekendowe śniadanie.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 1.5 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Proszek do pieczenia - 1.5 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajko - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Roztopione masło - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser żółty, starty - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szynka gotowana, pokrojona w kostkę - 100g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szczypiorek, posiekany - 3 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce wymieszaj mąkę i proszek do pieczenia. W drugiej misce połącz mleko, jajko i masło.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Połącz mokre i suche składniki. Dodaj ser, szynkę i szczypiorek. Wymieszaj tylko do połączenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rozgrzej gofrownicę. Piecz gofry według instrukcji urządzenia, aż będą złote i chrupiące.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj na ciepło, same lub z jajkiem sadzonym na wierzchu.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 45,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Pasta z Pieczonej Papryki i Fety (Htipiti)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Grecka pasta o intensywnym, dymnym smaku pieczonej papryki i słoności sera feta. Doskonała na grzankach, jako dip lub dodatek do jajek.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona papryka - 2-3 duże szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser feta - 200g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 1 ząbek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa z oliwek - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z cytryny - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: płatki chili, świeże oregano", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 220°C. Papryki umyj, ułóż na blasze i piecz ok. 25-30 minut, aż skórka sczernieje i pojawią się pęcherze.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorące papryki przełóż do miski i szczelnie przykryj folią na 15 minut. To sprawi, że skórka łatwo odejdzie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Obierz papryki ze skórki, usuń gniazda nasienne.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W blenderze lub malakserze umieść upieczoną paprykę, pokruszoną fetę, czosnek, oliwę, sok z cytryny i chili. Zmiksuj na pastę o pożądanej gładkości (może być gładka lub z grudkami).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj schłodzoną, z chlebem pita lub grzankami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 46,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Chałka z masłem i miodem", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Czasem najprostsze rozwiązania są najlepsze. Puszysta, świeża chałka, grubo posmarowana prawdziwym masłem i polana złotym miodem. Czysta poezja.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeża, puszysta chałka - kilka grubych kromek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Prawdziwe masło (min. 82% tłuszczu) - w temperaturze pokojowej", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dobry miód (np. lipowy, wielokwiatowy)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: szklanka ciepłego mleka lub kakao", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ukroj grubą kromkę chałki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Posmaruj ją obficie miękkim masłem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Polej miodem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zjedz. Uśmiechnij się. Powtórz.", "styles": ["inline-highlight-theme"] }] }
+    ]
+  },
+  {
+    "id": 47,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Dutch Baby Pancake (Naleśnik z Piekarnika)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Efektowny, gigantyczny naleśnik pieczony w piekarniku. Wyrasta spektakularnie po bokach, tworząc misę idealną na owoce i cukier puder. Prostszy niż tradycyjne naleśniki.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 3 duże", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 2/3 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 2/3 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ekstrakt waniliowy - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 4 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Umieść patelnię żeliwną (lub inne naczynie żaroodporne) w piekarniku i rozgrzej go do 220°C.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W blenderze (lub misce) połącz jajka, mleko, mąkę, cukier i wanilię. Zmiksuj na gładkie, rzadkie ciasto.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ostrożnie wyjmij gorącą patelnię z piekarnika. Wrzuć na nią masło i poczekaj, aż się rozpuści i zacznie pienić.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Szybko wlej ciasto na gorące masło.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wstaw z powrotem do piekarnika i piecz przez 15-20 minut, aż naleśnik spektakularnie wyrośnie i się zarumieni. Nie otwieraj piekarnika w trakcie!", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj natychmiast, posypany cukrem pudrem, z sokiem z cytryny lub świeżymi owocami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 48,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Omlet z kurkami i serem kozim", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Sezonowy rarytas. Delikatny, maślany smak kurek idealnie komponuje się z kremowym kozim serem i puszystym omletem. Leśne śniadanie w najlepszym wydaniu.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeże kurki - 150g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka - 3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szalotka - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser kozi (miękki) - 50g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Natka pietruszki, posiekana", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kurki dokładnie oczyść i osusz. Większe pokrój.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej łyżkę masła. Zeszklij posiekaną szalotkę. Dodaj kurki i smaż, aż odparuje woda i grzyby się zarumienią. Dopraw solą i pieprzem. Zdejmij z patelni.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W misce roztrzep jajka z odrobiną wody lub mleka, solą i pieprzem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na czystej patelni rozgrzej resztę masła. Wlej masę jajeczną. Kiedy spód zacznie się ścinać, na jednej połowie rozłóż kurki i pokruszony ser kozi.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Smaż jeszcze chwilę, złóż omlet na pół i zsuń na talerz. Posyp świeżą pietruszką.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 49,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zapieksy - Domowa Wersja Kultowej Zapiekanki", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Poczuj smak polskiego street foodu z lat 90. w domowym wydaniu. Chrupiąca bagietka, farsz z pieczarek i ciągnący się ser. Obowiązkowo z keczupem!", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Długa bagietka pszenna - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pieczarki - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 duża", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser żółty (np. gouda), starty - 200g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Keczup, prażona cebulka, szczypiorek - do podania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pieczarki i cebulę zetrzyj na tarce o grubych oczkach lub drobno posiekaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni rozgrzej masło. Wrzuć cebulę i smaż do zeszklenia. Dodaj pieczarki i smaż, aż cała woda odparuje, a farsz będzie suchy i rumiany. Dopraw solidnie solą i pieprzem.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 200°C. Bagietkę przekrój wzdłuż na pół.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na każdej połówce rozsmaruj farsz pieczarkowy. Obficie posyp startym serem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zapiekaj przez 10-12 minut, aż ser się rozpuści i zacznie się rumienić.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przed podaniem polej keczupem i posyp prażoną cebulką lub szczypiorkiem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 50,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kawa Kuloodporna (Bulletproof Coffee)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Śniadanie w płynie dla fanów diety keto i biohackingu. Kawa z dodatkiem masła i oleju MCT, która ma dawać energię na wiele godzin, stabilizować poziom cukru i poprawiać koncentrację.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeżo zaparzona, gorąca kawa (dobrej jakości) - 1 duży kubek (250ml)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło niesolone (najlepiej od krów karmionych trawą) - 1-2 łyżki", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej MCT lub olej kokosowy extra virgin - 1-2 łyżki", "styles": ["inline-bold"] }] },
+      {
+        "block_style": "box-danger",
+        "content": [
+          { "block_style": "header-h3", "content": [{ "text": "Bardzo Ważne!", "styles": [] }] },
+          { "block_style": "paragraph", "content": [{ "text": "Jeśli nigdy nie piłeś takiej kawy, zacznij od mniejszych ilości tłuszczu (np. po 1 łyżeczce), aby przyzwyczaić organizm.", "styles": [] }] }
+        ]
+      },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zaparz swoją ulubioną kawę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W kielichu blendera umieść gorącą kawę, masło i olej MCT/kokosowy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Blenduj na wysokich obrotach przez 20-30 sekund, aż wszystkie składniki połączą się w jednolitą, kremową emulsję z pianką na wierzchu. ", "styles": ["inline-highlight"] }, { "text": "Mieszanie łyżką nie da tego efektu!", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przelej do ulubionego kubka i pij od razu. Zastępuje pełnowartościowy posiłek.", "styles": [] }] }
+    ]
+  }
+]
