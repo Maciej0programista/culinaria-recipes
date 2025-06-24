@@ -1,0 +1,633 @@
+[
+  {
+    "id": 51,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Klasyczne Ogórki Kiszone", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Absolutny fundament polskiej spiżarni. Idealnie twarde, chrupiące i kwaśne. Sekret tkwi w dobrych składnikach i odpowiednich proporcjach solanki.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ogórki gruntowe, małe i twarde - ok. 2 kg", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koper - kilka dużych baldachów", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 1-2 główki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Korzeń chrzanu - ok. 10 cm", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Liście dębu, wiśni lub czarnej porzeczki - po kilka sztuk", "styles": ["inline-italic"] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Solanka:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 2 litry", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól kamienna niejodowana (do przetworów) - 2 czubate łyżki", "styles": ["inline-bold", "inline-highlight"] }] },
+      {
+        "block_style": "box-info",
+        "content": [
+          { "block_style": "paragraph", "content": [{ "text": "Liście dębu/wiśni zawierają garbniki, które pomagają zachować twardość ogórków.", "styles": [] }] }
+        ]
+      },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ogórki dokładnie umyj, najlepiej wyszoruj szczoteczką. Słoiki i zakrętki wyparz.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Chrzan i czosnek obierz. Chrzan pokrój w słupki, czosnek podziel na ząbki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W słoikach układaj ciasno ogórki, przekładając je koprem, czosnkiem, chrzanem i liśćmi.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przygotuj solankę: w wodzie rozpuść sól, zagotuj i lekko ostudź. Powinna być gorąca, ale nie wrząca.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej ogórki gorącą solanką, tak aby były całkowicie przykryte. Lekko zakręć słoiki (nie na siłę).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Odstaw w ciepłe miejsce na 3-5 dni do wstępnego ukiszenia, a następnie przenieś do chłodnej piwnicy lub spiżarni.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 52,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Ogórki Małosolne", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Letni przysmak, który jest gotowy już po 24-48 godzinach. Mniej kwaśne niż kiszone, cudownie chrupiące i orzeźwiające.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ogórki gruntowe - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koper - 2-3 baldachy", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 4-5 ząbków", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Korzeń chrzanu - kawałek ok. 5 cm", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Solanka:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - ok. 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól kamienna niejodowana - 1 czubata łyżka na 1 litr wody", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przygotowanie jest identyczne jak w przypadku ogórków kiszonych, ale używamy mniejszego naczynia, np. kamiennego garnka lub dużego słoja.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Umyte ogórki ułóż ciasno w naczyniu, przekładając dodatkami.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj wodę z solą i gorącą zalewą zalej ogórki. Muszą być całkowicie przykryte.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj naczynie talerzykiem lub gazą i odstaw w temperaturze pokojowej.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ogórki są gotowe do jedzenia już następnego dnia, a pełnię smaku osiągają po 2-3 dniach.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 53,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kapusta Kiszona Domowa", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Źródło witaminy C i probiotyków. Domowa kapusta kiszona jest o niebo lepsza od sklepowej. Wymaga trochę pracy, ale efekt jest tego wart.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Biała kapusta - 5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew - 0.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól kamienna niejodowana - ok. 100 g (20 g na 1 kg kapusty)", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: kminek, liść laurowy, ziele angielskie", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kapustę poszatkuj, a marchew zetrzyj na tarce o grubych oczkach.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużej misce lub wannie wymieszaj kapustę z marchwią i solą. Ugniataj rękami przez kilkanaście minut, aż kapusta puści dużo soku.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Bardzo ciasno ubijaj kapustę w kamiennym garnku lub dużych słojach. Każda warstwa musi być mocno dociśnięta, aby usunąć powietrze. Na wierzchu powinno być kilka centymetrów soku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj kapustę talerzem i obciąż czymś ciężkim (np. słoikiem z wodą), aby była cały czas zanurzona w soku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Odstaw w temperaturze pokojowej na 7-10 dni. Po tym czasie przełóż do mniejszych słoików i przenieś do chłodnego miejsca.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 54,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zakwas Buraczany na Barszcz", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Sekret idealnego, wigilijnego barszczu. Aromatyczny, klarowny i pełen głębokiego smaku. Domowy zakwas to także naturalny probiotyk.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Buraki - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 3-4 ząbki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Liść laurowy - 3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziele angielskie - 5-6 kulek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda przegotowana, letnia - ok. 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól kamienna - 1 płaska łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: kromka chleba razowego na zakwasie", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Buraki umyj, obierz i pokrój w grube plastry.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużym, wyparzonym słoju układaj warstwami buraki, czosnek i przyprawy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wodę wymieszaj z solą. Zalej buraki tak, aby były całkowicie przykryte.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jeśli chcesz przyspieszyć proces, na wierzchu połóż kromkę chleba (pomoże zainicjować fermentację).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj słój gazą i odstaw w ciepłe miejsce na 5-7 dni. Codziennie zbieraj pianę z powierzchni.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gdy zakwas będzie miał intensywny, kwaśny smak, zlej go do butelek i przechowuj w lodówce. Ukiszone buraki można wykorzystać do sałatki.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 55,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Grzybki Marynowane", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Aromatyczne, leśne grzyby w octowej zalewie z cebulką i marchewką. Idealna zakąska i dodatek do dań mięsnych.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Małe grzyby leśne (podgrzybki, maślaki, borowiki) - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew - 1 szt.", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet spirytusowy 10% - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 4 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Liść laurowy, ziele angielskie, ziarna gorczycy", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Grzyby dokładnie oczyść i umyj. Maślaki należy obrać ze skórki. Gotuj w osolonej wodzie przez 15-20 minut. Odcedź.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Cebulę pokrój w piórka, a marchew w plasterki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przygotuj zalewę: zagotuj wodę z octem, cukrem, solą i przyprawami.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W wyparzonych słoikach układaj warstwami grzyby, cebulę i marchew. Zalej gorącą zalewą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Szczelnie zakręć słoiki i pasteryzuj przez 15-20 minut.", "styles": ["inline-bold"] }] }
+    ]
+  },
+  {
+    "id": 56,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Powidła Śliwkowe Bez Cukru", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Prawdziwe, gęste i aromatyczne powidła, które swoją słodycz zawdzięczają jedynie dojrzałym śliwkom węgierkom. Wymagają długiego smażenia, ale efekt jest niepowtarzalny.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dojrzałe śliwki węgierki - 3 kg", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: szczypta cynamonu lub kilka goździków", "styles": ["inline-italic"] }] },
+      {
+        "block_style": "box-tip",
+        "content": [
+          { "block_style": "paragraph", "content": [{ "text": "Kluczem do sukcesu są bardzo dojrzałe, miękkie i słodkie śliwki.", "styles": [] }] }
+        ]
+      },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Śliwki umyj, przepołów i usuń pestki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Umieść śliwki w dużym garnku z grubym dnem. Smaż na małym ogniu, często mieszając, aż puszczą sok i zaczną się rozpadać.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Smażenie powideł to proces wielodniowy. Smaż je po 1-2 godziny dziennie przez 3-4 dni, aż staną się bardzo gęste, ciemne i lśniące. Za każdym razem studź i ponownie podgrzewaj.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Alternatywnie można je upiec w piekarniku w 150°C przez kilka godzin, mieszając co jakiś czas.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorące powidła przełóż do wyparzonych słoików, szczelnie zakręć i postaw do góry dnem do wystygnięcia.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 57,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kimchi - Koreańska Kiszona Kapusta", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Pikantna, intensywna w smaku i niezwykle zdrowa. Koreański klasyk, który podbija świat. Świetny dodatek do ryżu, mięs i zup.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kapusta pekińska - 1 duża sztuka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól gruboziarnista - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew, rzodkiew daikon - pokrojone w słupki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dymka ze szczypiorkiem", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Pasta kimchi:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka gochugaru (koreańskie płatki chili) - 1/2 szklanki", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sos rybny - 1/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 1 główka, starty", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Imbir - kawałek 5 cm, starty", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 łyżka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kapustę przekrój wzdłuż na ćwiartki. Każdy liść natrzyj solą. Odstaw na 2 godziny, co 30 minut obracając. Po tym czasie kapusta powinna być zwiędnięta. Dokładnie opłucz ją z soli i odciśnij.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przygotuj pastę, mieszając wszystkie jej składniki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do pasty dodaj pokrojoną marchew, rzodkiew i dymkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Używając rękawiczek, natrzyj dokładnie każdy liść kapusty przygotowanym farszem.", "styles": ["inline-highlight-theme"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ciasno ułóż kapustę w słoju. Zostaw w temperaturze pokojowej na 1-2 dni, a następnie przenieś do lodówki. Kimchi jest najlepsze po około tygodniu.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 58,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Dżem Truskawkowy z Nutą Wanilii", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Zapach lata zamknięty w słoiku. Klasyczny dżem truskawkowy z dodatkiem prawdziwej wanilii, która podbija jego smak i aromat.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Truskawki - 2 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 kg (lub mniej, zależnie od słodyczy owoców)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z 1 cytryny", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Laska wanilii - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: pektyna lub cukier żelujący", "styles": ["inline-italic"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Truskawki umyj, odszypułkuj. Większe można przekroić na pół.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużym garnku zasyp truskawki cukrem i odstaw na kilka godzin, aż puszczą sok.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Laskę wanilii przekrój wzdłuż, wyskrob ziarenka i dodaj do truskawek razem z pustą laską. Dodaj sok z cytryny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Smaż na małym ogniu, często mieszając, aż dżem osiągnie pożądaną gęstość (test zimnego talerzyka).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorący dżem przełóż do wyparzonych słoików, zakręć i odwróć do góry dnem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 59,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Czerwona Cebula Marynowana", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Chrupiąca, słodko-kwaśna i o pięknym, rubinowym kolorze. Idealny dodatek do kanapek, burgerów, sałatek i tacos. Gotowa w kilkadziesiąt minut!", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Duża czerwona cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet jabłkowy lub winny - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1.5 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: kilka ziaren pieprzu, liść laurowy", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Cebulę pokrój w cienkie piórka i umieść ciasno w słoiku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W rondelku zagotuj wodę z octem, cukrem, solą i przyprawami. Mieszaj, aż cukier i sól się rozpuszczą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorącą zalewą zalej cebulę w słoiku.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Odstaw do wystygnięcia. Cebula będzie gotowa do jedzenia po około 30-60 minutach. Przechowuj w lodówce.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 60,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Papryka Konserwowa w Oleju", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Słodka, mięsista papryka w aromatycznej, octowo-olejowej zalewie. Doskonały dodatek do kanapek, sałatek i jako samodzielna przekąska.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona papryka - 2 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 2-3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - kilka ząbków", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 3 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet 10% - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej roślinny - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, liść laurowy, ziele angielskie, gorczyca", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Paprykę umyj, usuń gniazda nasienne i pokrój w grube paski. Cebulę pokrój w piórka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużym garnku zagotuj wszystkie składniki zalewy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do wrzącej zalewy wrzuć partiami paprykę i cebulę. Gotuj przez 3-4 minuty, aż lekko zmiękną. Wyjmuj łyżką cedzakową.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorącą paprykę z cebulą układaj w wyparzonych słoikach, dodając do każdego ząbek czosnku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej gorącą zalewą, zakręć i pasteryzuj przez 15 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 61,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Chrzan Tarty Domowy", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Piekielnie ostry i aromatyczny. Domowy chrzan bije na głowę wszystkie sklepowe odpowiedniki. Niezastąpiony dodatek do wędlin, jajek i białej kiełbasy.", "styles": [] }] },
+      {
+        "block_style": "box-danger",
+        "content": [
+          { "block_style": "paragraph", "content": [{ "text": "Przygotuj się na płacz! Tarcie chrzanu uwalnia bardzo lotne i drażniące opary. Najlepiej robić to przy otwartym oknie lub na zewnątrz.", "styles": ["inline-bold"] }] }
+        ]
+      },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeży korzeń chrzanu - ok. 300g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Gorąca, przegotowana woda - ok. 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 2-3 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1/2 łyżeczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z cytryny lub ocet - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: kwaśna śmietana do złagodzenia", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Korzeń chrzanu dokładnie umyj, wyszoruj i obierz.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zetrzyj chrzan na tarce o najdrobniejszych oczkach. Można użyć malaksera z tarczą do tarcia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Starty chrzan natychmiast przełóż do miski, dodaj cukier, sól i sok z cytryny (zapobiega ciemnieniu).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Stopniowo dolewaj gorącą wodę, mieszając, aż uzyskasz pożądaną konsystencję. Woda 'zaparzy' chrzan i złagodzi jego ostrość.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przełóż do małych, wyparzonych słoiczków, szczelnie zakręć. Przechowuj w lodówce. Najlepszy po 1-2 dniach.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 62,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Sałatka Szwedzka z Ogórków", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Słodko-kwaśne plasterki ogórków w zalewie z dodatkiem gorczycy. Klasyka słoikowych przetworów, idealna do obiadów i na kanapki.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ogórki gruntowe - 2 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 2-3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Gorczyca w ziarnach - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 3 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet 10% - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1 łyżka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ogórki i marchew pokrój w plasterki (można użyć tarki 'mandoliny'). Cebulę pokrój w piórka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Warzywa wymieszaj w dużej misce z gorczycą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj składniki zalewy. Gorącą zalewą zalej warzywa i odstaw na 2-3 godziny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Po tym czasie przełóż sałatkę wraz z zalewą do wyparzonych słoików, dobrze dociskając.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pasteryzuj przez 10-15 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 63,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Syrop z Kwiatów Czarnego Bzu", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Kwintesencja wczesnego lata. Aromatyczny, kwiatowy syrop, idealny do lemoniady, herbaty lub jako dodatek do deserów. Posiada też właściwości prozdrowotne.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Duże baldachy kwiatów czarnego bzu - ok. 40-50 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cytryny - 2 szt.", "styles": [] }] },
+      {
+        "block_style": "box-warning",
+        "content": [
+          { "block_style": "paragraph", "content": [{ "text": "Zbieraj kwiaty w słoneczny dzień, z dala od dróg. Nie myj ich, aby nie spłukać cennego pyłku.", "styles": [] }] }
+        ]
+      },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kwiaty dokładnie przejrzyj i usuń owady. Odetnij grube łodyżki (są gorzkie).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj wodę z cukrem, aż powstanie syrop. Cytryny wyszoruj, sparz i pokrój w plastry.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kwiaty i plastry cytryny umieść w dużym słoju lub garnku. Zalej gorącym syropem. Przykryj i odstaw w chłodne miejsce na 24-48 godzin.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Po tym czasie odcedź syrop przez gęste sito lub gazę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Syrop podgrzej prawie do wrzenia, ale nie gotuj. Gorący przelej do wyparzonych butelek lub słoików. Szczelnie zakręć.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 64,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Cukinia Marynowana w Curry", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Zaskakujący i pyszny sposób na nadmiar cukinii. Słodko-kwaśna, chrupiąca i z orientalną nutą curry. Świetna jako sałatka do obiadu.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Młoda cukinia - 1.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka czerwona - 1 szt.", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet 10% - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 3 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Przyprawa curry - 2-3 łyżki", "styles": ["inline-bold"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Cukinię, cebulę i paprykę pokrój w kostkę. Wymieszaj w dużej misce.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj składniki zalewy, mieszając aż cukier i sól się rozpuszczą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorącą zalewą zalej warzywa, wymieszaj i odstaw na 1-2 godziny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przełóż sałatkę do słoików, zalej pozostałą zalewą.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pasteryzuj przez 15 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 65,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kiszone Rzodkiewki", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Zaskakujące, pyszne i gotowe w kilka dni. Kiszenie łagodzi ostrość rzodkiewek, nadając im przyjemny, kwaśny smak. Idealne do kanapek i sałatek.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Rzodkiewki - 2-3 pęczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 2-3 ząbki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koper - kilka gałązek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: plasterki imbiru, kilka ziaren pieprzu", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Solanka:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól kamienna - 1 łyżka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Rzodkiewki umyj, odetnij ogonki i liście. Można je kisić w całości lub przekrojone na pół.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W wyparzonym słoiku umieść rzodkiewki, czosnek, koper i inne dodatki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przygotuj solankę, rozpuszczając sól w letniej, przegotowanej wodzie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej rzodkiewki solanką. Przykryj słoik, ale nie zakręcaj szczelnie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Odstaw w temperaturze pokojowej na 4-7 dni. Gdy osiągną pożądany smak, zakręć i wstaw do lodówki.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 66,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kompot z Wiśni na Zimę", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Smak lata, który można otworzyć w środku zimy. Słodki, esencjonalny kompot, który przypomni najpiękniejsze, słoneczne dni.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Wiśnie - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - ok. 3-4 łyżki na litrowy słoik", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: kilka goździków", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wiśnie umyj. Możesz je wydrylować, ale nie jest to konieczne.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W wyparzonych słoikach umieść wiśnie, napełniając je do 2/3 wysokości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do każdego słoika wsyp cukier i ewentualnie dodaj goździk.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej zimną wodą, zostawiając 2-3 cm wolnej przestrzeni od góry.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Szczelnie zakręć słoiki. Pasteryzuj przez 20-25 minut od momentu zagotowania wody.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 67,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Smalec Domowy z Jabłkiem i Cebulą", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Tradycyjna polska okrasa do chleba. Aromatyczny, z chrupiącymi skwarkami, słodyczą jabłka i cebuli. Idealny na chłodne dni.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Słonina wieprzowa - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Boczek wędzony - 200g (opcjonalnie)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Duża cebula - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kwaśne jabłko (np. szara reneta) - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek - 2 łyżki", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Słoninę (i boczek, jeśli używasz) pokrój w drobną kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wrzuć na suchą, głęboką patelnię lub do garnka. Wytapiaj na małym ogniu, często mieszając, aż powstaną złote, chrupiące skwarki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W międzyczasie cebulę pokrój w kostkę, a jabłko zetrzyj na tarce o grubych oczkach.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gdy skwarki będą gotowe, dodaj cebulę i smaż aż się zeszkli. Następnie dodaj jabłko i smaż jeszcze kilka minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zdejmij z ognia. Dopraw obficie solą, pieprzem i majerankiem. Wymieszaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przelej do kamionki lub słoików. Zostaw do zastygnięcia. Przechowuj w lodówce.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 68,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kiszone Cytryny w Stylu Marokańskim", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Kluczowy składnik kuchni marokańskiej. Mają intensywny, słono-kwaśny smak i niesamowity aromat. Doskonałe do tadżinu, sałatek i dań z kurczaka.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cienkoskóre cytryny (niewoskowane) - 5-6 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól gruboziarnista morska - ok. 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dodatkowy sok z 2-3 cytryn", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: laska cynamonu, liście laurowe, ziarna pieprzu", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Cytryny dokładnie wyszoruj i sparz. Odetnij końcówki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Każdą cytrynę natnij na krzyż od góry, ale nie do końca, tak aby trzymała się w całości u podstawy.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wnętrze każdej cytryny obficie natrzyj solą. Do wyparzonego słoja wsyp na dno łyżkę soli.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wkładaj cytryny do słoja, mocno je dociskając, aby puściły jak najwięcej soku. Między warstwy możesz dodać przyprawy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej całość dodatkowym sokiem z cytryn, tak aby były całkowicie przykryte. Zamknij słoik i odstaw w temperaturze pokojowej na 3-4 tygodnie, co jakiś czas potrząsając. Przechowuj w lodówce.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 69,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Ogórki Konserwowe (Korniszony)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Chrupiące, słodko-kwaśne ogóreczki w octowej zalewie. Niezastąpione do sałatki jarzynowej, kanapek i jako zakąska.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Małe ogórki gruntowe - 2 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koper, czosnek, chrzan", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew, cebula", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziarna gorczycy", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 5 szklanek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet 10% - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 3/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 2 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ogórki umyj. Do każdego wyparzonego słoika włóż baldach kopru, ząbek czosnku, kawałek chrzanu, kilka plasterków marchwi i cebuli oraz pół łyżeczki gorczycy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ciasno ułóż ogórki w słoikach.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj składniki zalewy. Gorącą zalewą zalej ogórki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Szczelnie zakręć i pasteryzuj 10 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 70,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Konfitura z Czerwonej Cebuli", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Słodko-wytrawny dodatek o głębokim, karmelowym smaku. Idealna do deski serów, pasztetów, burgerów i pieczonych mięs.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona cebula - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwone wino wytrawne - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet balsamiczny - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier brązowy - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa z oliwek - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Liść laurowy, tymianek", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Cebulę pokrój w cienkie piórka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku o grubym dnie rozgrzej oliwę. Wrzuć cebulę i smaż na małym ogniu, często mieszając, przez 20-30 minut, aż będzie bardzo miękka i skarmelizowana.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj cukier i smaż jeszcze kilka minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wlej wino i ocet, dodaj przyprawy. Gotuj na małym ogniu bez przykrycia przez 30-45 minut, aż płyn odparuje, a konfitura zgęstnieje.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorącą przełóż do słoiczków.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 71,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zielone pomidory w zalewie", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Sposób na wykorzystanie niedojrzałych pomidorów z końca sezonu. Twarde, kwaśne i bardzo smaczne, świetne jako dodatek do obiadu.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Twarde, zielone pomidory - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziarna gorczycy, ziele angielskie", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet 10% - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 4 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1 łyżka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pomidory pokrój w grube plastry, cebulę w piórka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W słoikach układaj warstwami pomidory i cebulę, dodając przyprawy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj składniki zalewy i gorącą zalej zawartość słoików.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pasteryzuj 15 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 72,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Mus jabłkowy (przecier)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gładki, aksamitny i pachnący cynamonem. Domowy mus jabłkowy to świetny dodatek do naleśników, deserów lub jako samodzielna przekąska.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kwaśne jabłka (np. szara reneta, antonówka) - 2 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - do smaku (zależnie od jabłek)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z cytryny - z 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cynamon - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jabłka umyj, obierz, usuń gniazda nasienne i pokrój na mniejsze kawałki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przełóż jabłka do garnka, dodaj wodę, sok z cytryny i cynamon.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gotuj na małym ogniu pod przykryciem, aż jabłka całkowicie się rozpadną (ok. 30 minut).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj na gładką masę. Spróbuj i ewentualnie dosłodź do smaku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorący mus przełóż do słoików i pasteryzuj 15 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 73,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kalafior w kurkumie i zalewie musztardowej", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Oryginalna i pyszna sałatka na zimę. Chrupiące różyczki kalafiora w złocistej, lekko pikantnej zalewie. Wygląda i smakuje rewelacyjnie.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kalafior - 1 duża główka", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 6 szklanek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet 10% - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kurkuma - 1 łyżka", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Gorczyca w ziarnach - 2 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kalafiora podziel na małe różyczki i obgotuj we wrzątku przez 2-3 minuty. Odcedź.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj wszystkie składniki zalewy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Różyczki kalafiora umieść w wyparzonych słoikach.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej gorącą, żółtą zalewą. Zakręć i pasteryzuj 15 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 74,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Marynowany czosnek w ziołach", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Całe ząbki czosnku w łagodnej, ziołowej zalewie. Traci on swoją ostrość, stając się delikatny i chrupiący. Świetny jako przekąska lub dodatek do sałatek.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 4-5 główek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeży rozmaryn, tymianek - po kilka gałązek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziarna pieprzu, kolendry", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet winny biały - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1 łyżka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Czosnek obierz z łupinek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W małych słoiczkach umieść ząbki czosnku, zioła i przyprawy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj składniki zalewy i gorącą zalej czosnek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zakręć słoiki. Nie wymaga pasteryzacji, ale najlepszy jest po kilku tygodniach.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 75,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Buraczki tarte na zimę", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Klasyczny dodatek do polskiego obiadu. Słodko-kwaśne, tarte buraczki, które wystarczy podgrzać i podać do kotleta.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Buraki - 2 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet 10% - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Buraki dokładnie umyj i ugotuj w skórkach do miękkości (ok. 1-1.5 godziny).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ostudź, obierz ze skórki i zetrzyj na tarce o grubych oczkach.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zagotuj wodę, ocet, cukier i sól.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do gorącej zalewy dodaj starte buraki. Wymieszaj i gotuj razem przez 5 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorące buraczki nakładaj do słoików, zakręcaj i pasteryzuj 20 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 76,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Gruszki w occie", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Zapomniany nieco, a przepyszny dodatek do mięs, wędlin i pasztetów. Słodkie, korzenne i lekko kwaskowate gruszki.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Twarde gruszki - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Goździki", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet 10% - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kawałek kory cynamonu", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gruszki obierz, przekrój na połówki lub ćwiartki, usuń gniazda nasienne.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj składniki zalewy. Do wrzącej zalewy wkładaj partiami gruszki i gotuj 3-5 minut, aż staną się szkliste. Wyjmuj łyżką cedzakową.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gruszki układaj w słoikach, do każdej połówki wbijając goździk.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej gorącą zalewą i pasteryzuj 15 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 77,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Syrop malinowy na zimę", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Domowy syrop malinowy to najlepszy lek na przeziębienie i niezastąpiony dodatek do herbaty w chłodne wieczory. Intensywnie owocowy i pełen witamin.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Maliny - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 kg", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Maliny umieść w dużym słoju lub garnku, zasypując je warstwami cukru.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przykryj gazą i odstaw w ciepłe miejsce na 2-3 dni, aż maliny puszczą sok, a cukier się rozpuści. Codziennie mieszaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zlej sok przez gęste sito, dokładnie odciskając owoce.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Syrop podgrzej do temperatury ok. 80°C (nie gotuj, by nie stracić witamin).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorący przelej do wyparzonych butelek i szczelnie zamknij.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 78,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Patisony marynowane", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Małe, urocze dynie o delikatnym smaku, zamknięte w klasycznej, octowej zalewie. Chrupiące i pyszne, świetnie wyglądają na stole.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Małe patisony - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koper, czosnek, chrzan, gorczyca", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Zalewa:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda - 4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet 10% - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 3/4 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1.5 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Patisony dokładnie umyj. Do każdego słoika włóż przyprawy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ciasno ułóż patisony w słoikach.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zagotuj składniki zalewy i gorącą zalej patisony.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pasteryzuj 15 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 79,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Konfitura z wiśni", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Esencja wiśniowego smaku. Całe owoce zanurzone w gęstym, słodkim syropie. Luksusowy dodatek do deserów, lodów i herbaty.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Wiśnie - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 kg", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wiśnie umyj i wydryluj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W szerokim garnku zasyp wiśnie cukrem i odstaw na kilka godzin.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Smaż na małym ogniu, zbierając szumowiny. Smaż przez 2-3 dni po ok. 30 minut, aż syrop zgęstnieje, a owoce staną się szkliste. Nie mieszaj zbyt energicznie, by nie rozgnieść owoców.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gorącą konfiturę przełóż do słoików.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 80,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Marchewka po koreańsku (Morkovcha)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Pikantna, słodko-kwaśna sałatka z marchewki, popularna w krajach byłego ZSRR. Uzależniający smak i wspaniały dodatek do wielu dań.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet 10% - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 4-5 ząbków, przeciśniętych", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mielona kolendra - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona ostra papryka - 1/2 łyżeczki (lub więcej)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Olej roślinny - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Marchew zetrzyj na specjalnej tarce w długie, cienkie paski (julienne).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wymieszaj marchew z solą i cukrem, lekko ugniatając. Odstaw na 30 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj ocet, czosnek, kolendrę i ostrą paprykę. Wymieszaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni bardzo mocno rozgrzej olej. ", "styles": ["inline-bold"] }, { "text": "Gorącym olejem polej marchewkę (powinno zasyczeć!).", "styles": ["inline-bold", "inline-highlight-theme"] }, { "text": " To kluczowy krok, który uwalnia aromat przypraw.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dokładnie wymieszaj i odstaw do lodówki na kilka godzin, a najlepiej na całą noc. Przechowuj w słoikach w lodówce.", "styles": [] }] }
+    ]
+  }
+]
