@@ -1,0 +1,1015 @@
+[
+  {
+    "id": 151,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Klasyczny Rosół Królewski", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Podstawa polskiej kuchni i najlepszy lek na wszystko. Sekret idealnego rosołu to dobrej jakości mięso i długie, powolne gotowanie na minimalnym ogniu, czyli tzw. 'mruganie'.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Porcja rosołowa (kurczak, kaczka, wołowina) - ok. 1.5 kg", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Włoszczyzna (marchew, pietruszka, seler, por) - 1 duży pęczek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 duża szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 2-3 ząbki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Liść laurowy, ziele angielskie, kilka ziaren pieprzu", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Suszone grzyby (podgrzybki) - 2-3 szt. (opcjonalnie)", "styles": ["inline-italic"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Natka pietruszki, lubczyk", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól do smaku", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mięso umyj i zalej zimną wodą w dużym garnku. Zagotuj. Gdy pojawią się szumowiny, zbierz je dokładnie łyżką cedzakową.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Cebulę opal nad palnikiem lub na suchej patelni, aż będzie czarna. To nada rosołowi piękny kolor i głębię smaku.", "styles": ["inline-highlight-theme"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do garnka z mięsem dodaj obraną i umytą włoszczyznę, opaloną cebulę, czosnek, grzyby i przyprawy (oprócz soli i zielonych ziół).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zmniejsz ogień do absolutnego minimum. Rosół ma tylko delikatnie 'mrugać', nie gotować się gwałtownie. Gotuj bez przykrycia przez co najmniej 3-4 godziny.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na 30 minut przed końcem gotowania dodaj lubczyk i natkę pietruszki. Dopraw solą do smaku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gotowy rosół przecedź przez gęste sito. Podawaj z makaronem i posiekaną natką.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 152,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa Pomidorowa ze Świeżych Pomidorów", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Aromatyczna, lekko słodka i nieporównywalnie lepsza od tej z koncentratu. Najlepiej smakuje latem, gdy pomidory są najsmaczniejsze.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dojrzałe pomidory (malinowe lub bawole serca) - 1.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny lub rosół - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 2 ząbki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa z oliwek - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 łyżeczka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietana 18% lub 30% - do zabielenia", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeża bazylia", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pomidory sparz, obierz ze skórki i pokrój w kostkę, usuwając twarde części przy szypułkach.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku na oliwie zeszklij posiekaną cebulę. Dodaj czosnek i smaż jeszcze minutę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj pokrojone pomidory i cukier. Duś na małym ogniu przez 15-20 minut, aż pomidory się rozpadną.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej całość gorącym bulionem i gotuj przez 10 minut. Zblenduj zupę na gładki krem.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw solą i pieprzem. Możesz zabielić śmietaną (zahartowaną wcześniej odrobiną gorącej zupy).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z ryżem lub makaronem, udekorowaną świeżą bazylią.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 153,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Żurek Śląski na Zakwasie", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Intensywnie kwaśny, aromatyczny i sycący. Prawdziwy żurek musi być przygotowany na domowym lub dobrej jakości zakwasie żytnim. To kwintesencja polskiej kuchni.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Zakwas na żur - 500 ml", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion na wędzonce (żeberka, boczek) - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Biała kiełbasa (surowa lub parzona) - 4-5 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Boczek wędzony - 150g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 3 ząbki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietana 18% lub 30% - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka na twardo - do podania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ugotuj wywar na wędzonym mięsie z dodatkiem warzyw (jak na rosół). Wyjmij mięso.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do gorącego bulionu wlej zakwas (wcześniej wstrząśnięty). Zagotuj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Włóż do zupy białą kiełbasę i gotuj na małym ogniu ok. 20 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Boczek i cebulę pokrój w kostkę i podsmaż na patelni. Dodaj do zupy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyjmij kiełbasę, pokrój w plastry. Wrzuć z powrotem do zupy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zupę dopraw przeciśniętym czosnkiem i roztartym w dłoniach majerankiem. Zabiel śmietaną.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z połówkami jajka na twardo i świeżym chlebem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 154,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa Ogórkowa z Kiszeniaków", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Klasyczna polska zupa, która smakuje jak u babci. Delikatnie kwaśna, kremowa i sycąca dzięki dodatkowi ziemniaków.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ogórki kiszone - 0.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda z ogórków - 1 szklanka (lub do smaku)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion mięsny lub warzywny - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 4-5 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew, pietruszka, seler - po 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietana 18% - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koperek świeży, posiekany", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ziemniaki obierz i pokrój w kostkę. Marchew, pietruszkę i seler zetrzyj na tarce o grubych oczkach.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zagotuj bulion. Wrzuć ziemniaki i startą włoszczyznę. Gotuj do miękkości (ok. 15-20 minut).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W międzyczasie ogórki kiszone zetrzyj na tarce o grubych oczkach.", "styles": [] }] },
+      {
+        "block_style": "box-tip",
+        "content": [
+          { "block_style": "paragraph", "content": [{ "text": "Jeśli dodasz ogórki zbyt wcześnie, kwas sprawi, że ziemniaki pozostaną twarde.", "styles": ["inline-bold"] }] }
+        ]
+      },
+      { "block_style": "list-ordered", "content": [{ "text": "Gdy warzywa w zupie będą miękkie, dodaj starte ogórki. Gotuj razem przez 5-10 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wlej wodę z ogórków, spróbuj i ewentualnie dodaj więcej, jeśli zupa jest za mało kwaśna. Dopraw solą i pieprzem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zabiel zupę śmietaną, dodaj posiekany koperek. Nie gotuj już po dodaniu śmietany.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 155,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Aksamitny Krem z Dyni", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Jesień zamknięta w misce. Rozgrzewający, słodki i aromatyczny krem z pieczonej dyni, z nutą imbiru i mleka kokosowego.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dynia hokkaido lub piżmowa - ok. 1.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko kokosowe (z puszki) - 200 ml", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Imbir świeży - kawałek 3 cm", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 2 ząbki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kurkuma, gałka muszkatołowa", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pestki dyni, olej z pestek dyni - do podania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 200°C. Dynię przekrój, usuń pestki i pokrój na mniejsze kawałki. Ułóż na blasze skórą do dołu.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piecz przez 30-40 minut, aż dynia będzie miękka. Ostudź i oddziel miąższ od skóry.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zeszklij cebulę, dodaj starty imbir i czosnek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj upieczony miąższ z dyni, zalej bulionem. Gotuj 10 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj zupę na idealnie gładki krem. Wlej mleko kokosowe, dopraw kurkumą, gałką, solą i pieprzem. Podgrzej.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z prażonymi pestkami dyni i kilkoma kroplami oleju dyniowego.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 156,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Francuska Zupa Cebulowa z Grzanką Serową", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Klasyka paryskich bistro. Głęboki, słodki smak długo karmelizowanej cebuli, aromatyczny bulion i chrupiąca grzanka zapieczona z serem Gruyère.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 kg", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 50g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion wołowy - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Białe wino wytrawne - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bagietka - kilka kromek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser Gruyère lub Emmentaler, starty - 150g", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Cebulę pokrój w cienkie piórka.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużym garnku rozpuść masło. Wrzuć cebulę i smaż na małym ogniu przez 30-40 minut, często mieszając, aż będzie głęboko brązowa i skarmelizowana. ", "styles": ["inline-highlight"] }, { "text": "To najważniejszy etap!", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Oprósz cebulę mąką i smaż minutę. Wlej wino i gotuj, aż odparuje.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej gorącym bulionem, dopraw solą i pieprzem. Gotuj na małym ogniu 20 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zupę wlej do żaroodpornych miseczek. Na wierzchu każdej połóż kromkę bagietki i posyp obficie serem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zapiekaj w 200°C pod grillem, aż ser się rozpuści i zarumieni.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 157,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa Grzybowa ze Świeżych Grzybów", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Aromat lasu zamknięty w talerzu. Intensywna, esencjonalna zupa, która najlepiej smakuje jesienią, przygotowana ze świeżo zebranych podgrzybków i borowików.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeże grzyby leśne (mieszane) - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny lub mięsny - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietana 18% - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Natka pietruszki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Grzyby dokładnie oczyść, umyj i pokrój w grube plastry.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku na maśle zeszklij posiekaną cebulę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj grzyby i smaż, aż odparuje z nich woda i lekko się zarumienią.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej gorącym bulionem. Gotuj na małym ogniu przez 20-25 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zabiel zupę śmietaną, dopraw do smaku solą i pieprzem. Posyp natką pietruszki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z makaronem łazanki lub grzankami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 158,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Krupnik na Żeberkach", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gęsta, pożywna i rozgrzewająca zupa z kaszą jęczmienną, ziemniakami i warzywami, gotowana na aromatycznym wywarze z wędzonych żeberek.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Żeberka wędzone - 400g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kasza jęczmienna (pęczak lub perłowa) - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 3-4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Włoszczyzna (marchew, pietruszka, seler)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Liść laurowy, ziele angielskie", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek, sól, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Żeberka zalej wodą, dodaj liść laurowy i ziele angielskie. Gotuj ok. 1 godziny, aż mięso będzie miękkie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyjmij żeberka, oddziel mięso od kości i pokrój. Wywar przecedź.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kaszę opłucz na sicie. Warzywa i ziemniaki obierz i pokrój w kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do wywaru dodaj warzywa i kaszę. Gotuj 15 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj ziemniaki i gotuj do miękkości wszystkich składników.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na koniec dodaj pokrojone mięso z żeberek. Dopraw majerankiem, solą i pieprzem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 159,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa Krem z Białych Warzyw", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Elegancka, delikatna i aksamitna zupa o subtelnym, lekko słodkim smaku. Idealna jako wykwintna przystawka.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pietruszka korzeń - 3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Seler korzeń - 1 mały", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Por (biała część) - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietanka 30% - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Gałka muszkatołowa, biały pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa z oliwek", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wszystkie warzywa obierz i pokrój w kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku na oliwie zeszklij pora. Dodaj resztę warzyw i smaż razem przez kilka minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej gorącym bulionem i gotuj do miękkości warzyw (ok. 20-25 minut).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj zupę na idealnie gładki krem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj śmietankę, dopraw świeżo startą gałką muszkatołową i białym pieprzem. Podgrzej, nie gotuj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z grzankami lub chipsem z boczku.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 160,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Barszcz Ukraiński", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gęsta, sycąca i pełna warzyw zupa, której podstawą są buraki. Charakterystyczny słodko-kwaśny smak uzyskuje się dzięki dodatkowi octu i cukru.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion na żeberkach lub wołowinie - 2 litry", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Buraki - 4-5 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Biała kapusta - 1/4 główki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew, pietruszka - po 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona fasola (z puszki) - 1 puszka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koncentrat pomidorowy - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet, cukier, sól, pieprz", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kwaśna śmietana - do podania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Buraki, marchew i pietruszkę zetrzyj na tarce. Ziemniaki pokrój w kostkę, a kapustę poszatkuj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do gorącego bulionu wrzuć ziemniaki i kapustę. Gotuj 10 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni podsmaż starte buraki, marchew i pietruszkę. Dodaj koncentrat pomidorowy. Przełóż do zupy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gotuj wszystko do miękkości warzyw. Na koniec dodaj odcedzoną fasolę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw do smaku octem, cukrem, solą i pieprzem, balansując smak słodki i kwaśny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z kleksem kwaśnej śmietany.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 161,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa Gulaszowa", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Węgierska klasyka. Gęsta, pikantna i rozgrzewająca zupa z kawałkami wołowiny, ziemniakami i papryką. Bardziej danie główne niż zupa.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Wołowina (np. łopatka) - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 2 duże szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka czerwona - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka słodka w proszku - 3 łyżki", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka ostra w proszku - do smaku", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koncentrat pomidorowy - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion wołowy - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Smalec lub olej", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mięso pokrój w kostkę. Cebulę posiekaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku na smalcu zeszklij cebulę. Zdejmij z ognia, dodaj obie papryki w proszku i wymieszaj.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Postaw garnek z powrotem na ogniu, dodaj mięso i obsmaż z każdej strony.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj koncentrat, zalej gorącym bulionem. Duś pod przykryciem ok. 1.5 godziny, aż mięso będzie miękkie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj pokrojone w kostkę ziemniaki i paprykę. Gotuj do miękkości.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 162,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Chłodnik Litewski", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Idealna zupa na upalne dni. Orzeźwiająca, zimna, o pięknym, różowym kolorze, który zawdzięcza botwince. Podawana z jajkiem na twardo.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Botwinka (młode buraczki z liśćmi) - 1 duży pęczek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jogurt naturalny gęsty - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kefir lub maślanka - 500 ml", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ogórek gruntowy - 4-5 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Rzodkiewki - 1 pęczek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koperek, szczypiorek - pęczek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka na twardo - do podania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Botwinkę dokładnie umyj. Buraczki obierz i zetrzyj na tarce, a łodygi i liście posiekaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej botwinkę niewielką ilością wody, dodaj łyżkę octu lub soku z cytryny i gotuj do miękkości (ok. 15 minut). Całkowicie ostudź.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ogórki i rzodkiewki zetrzyj na tarce. Koperek i szczypiorek posiekaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W dużej misce połącz zimną botwinkę z wywarem, jogurt, kefir, starte warzywa i zioła.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw do smaku solą, pieprzem i cukrem. Dokładnie wymieszaj i wstaw do lodówki na co najmniej 2 godziny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj bardzo zimny, z połówkami jajka na twardo.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 163,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa z Soczewicy", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Pożywna, wegetariańska zupa o lekko orientalnym aromacie. Czerwona soczewica gotuje się bardzo szybko, więc to idealny pomysł na szybki i zdrowy obiad.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona soczewica - 1.5 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pomidory w puszce (krojone) - 1 puszka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kumin (kmin rzymski), kurkuma, słodka papryka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeża kolendra lub pietruszka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Soczewicę opłucz na sicie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zeszklij posiekaną cebulę. Dodaj startą marchew i przyprawy, smaż minutę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj soczewicę, pomidory i zalej bulionem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gotuj ok. 20 minut, aż soczewica będzie miękka i zacznie się rozpadać.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Można zblendować na gładki krem lub zostawić w kawałkach. Dopraw do smaku, posyp świeżymi ziołami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 164,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa Szczawiowa", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Kwaśna, orzeźwiająca i pełna smaku. Zupa, która jest jednym z pierwszych zwiastunów wiosny. Podawana tradycyjnie z jajkiem na twardo.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeży szczaw - ok. 300g (lub 1 słoik konserwowego)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 3-4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietana 18% - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Żółtko - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajka na twardo", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ziemniaki pokrój w kostkę i ugotuj w bulionie do miękkości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Świeży szczaw umyj i drobno posiekaj. Na patelni rozpuść masło, wrzuć szczaw i duś, aż 'zwiędnie' i zmieni kolor na oliwkowy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj duszony szczaw do zupy. Gotuj 5 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W miseczce wymieszaj śmietanę z żółtkiem. Zahartuj odrobiną gorącej zupy i wlej do garnka, energicznie mieszając. Nie gotuj.", "styles": ["inline-bold"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw do smaku. Podawaj z połówkami jajka.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 165,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Grochówka Wojskowa", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gęsta, sycąca i aromatyczna. Prawdziwa grochówka musi być tak gęsta, żeby 'łyżka w niej stała'. Obowiązkowo z dodatkiem wędzonki i majeranku.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Groch łuskany, połówki - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Boczek wędzony - 200g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kiełbasa - 200g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew, pietruszka, seler", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 2 ząbki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek - 3 łyżki", "styles": ["inline-bold"] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Groch namocz w zimnej wodzie na kilka godzin, a najlepiej na całą noc.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gotuj groch w tej samej wodzie, w której się moczył, aż będzie miękki. W międzyczasie dodaj pokrojone w kostkę warzywa (marchew, pietruszkę, seler) i ziemniaki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Boczek, kiełbasę i cebulę pokrój w kostkę i podsmaż na patelni.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gdy groch i warzywa będą miękkie, dodaj zawartość patelni do zupy.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj przeciśnięty czosnek i roztarty w dłoniach majeranek. Dopraw solą i pieprzem. Gotuj jeszcze 15 minut.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 166,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa krem z pieczarek", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Intensywnie grzybowa, kremowa i aksamitna. Podsmażenie pieczarek przed gotowaniem wydobywa z nich całą głębię smaku.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pieczarki - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 duża", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietanka 30% - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Grzanki czosnkowe do podania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pieczarki oczyść i pokrój w plasterki. Cebulę posiekaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku na maśle zeszklij cebulę. Dodaj pieczarki i smaż na dużym ogniu, aż odparuje woda i zaczną się rumienić.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej gorącym bulionem i gotuj 15 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj zupę na gładki krem. Dodaj śmietankę, dopraw solą i pieprzem. Podgrzej.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z grzankami i posiekaną natką pietruszki.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 167,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa serowa z grzankami", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gęsta, kremowa i bardzo sycąca. Gratka dla miłośników sera. Najlepiej smakuje z chrupiącymi, domowymi grzankami.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Serek topiony (śmietankowy) - 200g", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser żółty (cheddar, gouda), starty - 150g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew, ziemniak - po 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Gałka muszkatołowa, pieprz", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zeszklij posiekaną cebulę. Dodaj pokrojoną w kostkę marchew i ziemniaka. Smaż chwilę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej gorącym bulionem i gotuj do miękkości warzyw.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zmniejsz ogień do minimum. Dodawaj partiami serek topiony, mieszając, aż się rozpuści.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj starty ser żółty i mieszaj, aż również się rozpuści. Zupa nie może się gotować!", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw świeżo startą gałką muszkatołową i pieprzem. Podawaj natychmiast.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 168,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Kapuśniak ze świeżej kapusty", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Lżejsza i delikatniejsza wersja kapuśniaku, idealna na lato. Gotowana na żeberkach, z dodatkiem młodych ziemniaków i dużą ilością koperku.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Młoda kapusta - 1 główka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Żeberka wieprzowe - 400g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Młode ziemniaki - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koperek - 1 duży pęczek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koncentrat pomidorowy - 1-2 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ugotuj wywar na żeberkach. Mięso oddziel od kości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kapustę poszatkuj. Ziemniaki i marchew pokrój w kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do wywaru dodaj warzywa (oprócz kapusty). Gotuj 15 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj kapustę i gotuj do miękkości (młoda kapusta gotuje się szybko, ok. 10 minut).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj koncentrat, pokrojone mięso i posiekany koperek. Dopraw do smaku.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 169,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Minestrone - włoska zupa jarzynowa", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gęsta, sycąca zupa pełna sezonowych warzyw, często z dodatkiem fasoli i drobnego makaronu. Nie ma jednego przepisu, to zupa typu 'co masz w lodówce'.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula, marchew, seler naciowy", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukinia, ziemniak", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pomidory w puszce - 1 puszka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Fasola cannellini (z puszki) - 1 puszka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Drobny makaron - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pesto bazyliowe - do podania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku na oliwie zeszklij posiekaną cebulę, marchew i seler.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj pokrojoną cukinię i ziemniaka, smaż chwilę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj pomidory i zalej bulionem. Gotuj 15 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wsyp makaron i gotuj, aż będzie al dente.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na koniec dodaj odcedzoną fasolę. Dopraw. Podawaj z kleksem pesto.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 170,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Krem z brokułów z serem pleśniowym", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Aksamitny, zielony krem o wyrazistym smaku, który zawdzięcza dodatkowi sera z niebieską pleśnią (np. gorgonzola).", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Brokuł - 1 duży", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniak - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ser pleśniowy (gorgonzola, lazur) - 100g", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietanka - do smaku", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Brokuł podziel na różyczki. Ziemniaka pokrój w kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W bulionie ugotuj ziemniaka do miękkości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj różyczki brokuła i gotuj tylko 5-7 minut, aby nie stracił koloru.", "styles": ["inline-highlight"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj zupę na gładki krem. Zmniejsz ogień, dodaj pokruszony ser i mieszaj do rozpuszczenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Można zabielić śmietanką. Podawaj z grzankami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 171,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa rybna", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Aromatyczna i esencjonalna, przygotowana na wywarze z różnych gatunków ryb i warzyw. Smakuje jak nadmorskie wakacje.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kawałki różnych ryb (dorsz, łosoś, sandacz) - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Głowy i ości ryb - na wywar", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Włoszczyzna", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Białe wino - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koncentrat pomidorowy - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szafran - szczypta", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ugotuj wywar na głowach, ościach i warzywach (ok. 40 minut). Przecedź.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zeszklij pora, wlej wino i odparuj. Dodaj koncentrat i szafran.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej gorącym wywarem rybnym.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gdy zupa się zagotuje, dodaj pokrojone w kostkę filety ryb. Gotuj 5-7 minut, aż ryba będzie gotowa.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw do smaku, posyp koperkiem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 172,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa czosnkowa (Czeska Česnečka)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Intensywna, rozgrzewająca i podobno najlepsza na kaca. Czeska zupa czosnkowa podawana jest z grzankami i startym serem.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 1 duża główka", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion drobiowy lub wołowy - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 2-3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek, kminek mielony", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajko - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Grzanki z chleba, ser żółty starty", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Połowę czosnku pokrój w plasterki, resztę przeciśnij przez praskę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na maśle podsmaż czosnek w plasterkach i kminek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej bulionem, dodaj pokrojone w kostkę ziemniaki i gotuj do miękkości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj przeciśnięty czosnek i majeranek. Roztrzepane jajko wlej cienką strużką do gorącej zupy, mieszając.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do miseczki wsyp grzanki i ser, zalej gorącą zupą.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 173,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa z ciecierzycy z chorizo", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Inspirowana kuchnią hiszpańską. Sycąca, pikantna i aromatyczna zupa z ciecierzycą i wędzoną kiełbasą chorizo.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ciecierzyca (z puszki) - 2 puszki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kiełbasa chorizo - 150g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula, czosnek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka wędzona - 1 łyżka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szpinak świeży - duża garść", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Chorizo pokrój w plasterki. W garnku podsmaż chorizo, aż wytopi się tłuszcz.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj posiekaną cebulę i czosnek, smaż do zeszklenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj paprykę wędzoną, odcedzoną ciecierzycę i zalej bulionem. Gotuj 15 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na koniec wrzuć szpinak i mieszaj, aż zwiędnie.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 174,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa Kalafiorowa", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Delikatna, kremowa i lekka. Klasyczna polska zupa, która najlepiej smakuje latem, gdy kalafiory są najświeższe.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kalafior - 1 średni", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Marchew - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietana 18% - 3 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koperek", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do bulionu wrzuć pokrojone w kostkę ziemniaki i marchew. Gotuj 10 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Kalafior podziel na małe różyczki i dodaj do zupy. Gotuj do miękkości warzyw.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zabiel zupę śmietaną, dopraw do smaku.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przed podaniem posyp obficie posiekanym koperkiem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 175,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa Fasolowa", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gęsta i sycąca zupa na wędzonce, z dużą ilością białej fasoli 'Piękny Jaś'. Idealna na chłodne, jesienne i zimowe dni.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sucha biała fasola - 400g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Boczek wędzony, kiełbasa", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Włoszczyzna, ziemniaki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek, czosnek", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Fasolę namocz na noc. Gotuj w tej samej wodzie do miękkości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W osobnym garnku przygotuj wywar na boczku i włoszczyźnie. Dodaj pokrojone ziemniaki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gdy ziemniaki będą prawie miękkie, dodaj ugotowaną fasolę wraz z wodą, w której się gotowała.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj podsmażoną kiełbasę. Dopraw obficie majerankiem i czosnkiem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 176,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Krem z kukurydzy z chili", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Słodka, aksamitna zupa z kukurydzy z puszki, z pikantną nutą chili i orzeźwiającą limonką. Szybka, prosta i zaskakująco smaczna.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kukurydza w puszce - 2 puszki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 750 ml", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula, czosnek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Płatki chili - do smaku", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z 1 limonki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeża kolendra", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zeszklij cebulę i czosnek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj odcedzoną kukurydzę (zostaw garść do dekoracji) i zalej bulionem. Gotuj 10 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj zupę na gładko. Dopraw solą, pieprzem, chili i sokiem z limonki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z pozostałymi ziarnami kukurydzy i świeżą kolendrą.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 177,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa porowa z ziemniakami", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Prosta, kremowa i bardzo aromatyczna zupa, w której główną rolę gra por. Ziemniaki dodają jej gęstości i sytości.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pory (głównie białe i jasnozielone części) - 3-4 duże", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietanka - do zabielenia", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pory dokładnie umyj i pokrój w plasterki. Ziemniaki obierz i pokrój w kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku na maśle duś pory, aż zmiękną, ale nie zrumienią się.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj ziemniaki, zalej bulionem i gotuj do miękkości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj na krem (lub zostaw w kawałkach). Zabiel śmietaną.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 178,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Hiszpańskie Gazpacho", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Chłodnik z surowych warzyw, głównie pomidorów. Idealny na największe upały. Orzeźwiający, zdrowy i pełen smaku.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bardzo dojrzałe pomidory - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ogórek - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Papryka czerwona - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona cebula - 1/2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 1-2 ząbki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa z oliwek extra virgin - 1/3 szklanki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ocet winny - 2 łyżki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Warzywa z grubsza pokrój. Odłóż po odrobinie z każdego do dekoracji (pokrojone w drobną kostkę).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wszystkie pokrojone warzywa (oprócz tych do dekoracji) umieść w blenderze.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj czosnek, oliwę, ocet, sól i pieprz. Zblenduj na gładką masę. Można dodać trochę zimnej wody dla rzadszej konsystencji.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przetrzyj przez sito dla uzyskania aksamitnej gładkości (opcjonalnie).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wstaw do lodówki na co najmniej 2 godziny. Podawaj bardzo zimne, udekorowane posiekanymi warzywami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 179,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Tajska zupa Tom Yum z krewetkami", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Ostrokwaśna, aromatyczna i niezwykle popularna zupa tajska. Pełna egzotycznych smaków trawy cytrynowej, galangalu i liści kaffiru.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Krewetki surowe - 250g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion drobiowy - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Trawa cytrynowa, galangal, liście limonki kaffir", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pasta Tom Yum - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sos rybny, sok z limonki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Grzyby (np. boczniaki), pomidorki koktajlowe", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do bulionu dodaj rozbitą trawę cytrynową, pokrojony galangal i liście kaffiru. Gotuj 10 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj pastę Tom Yum i grzyby. Gotuj 5 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj krewetki i pomidorki. Gotuj tylko do momentu, aż krewetki staną się różowe (2-3 minuty).", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zdejmij z ognia. Dopraw sosem rybnym i sokiem z limonki. Posyp świeżą kolendrą.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 180,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Solanka", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gęsta, kwaśno-słona zupa, popularna w kuchni rosyjskiej i ukraińskiej. Przygotowywana na bazie różnych rodzajów mięs, wędlin i obowiązkowo z dodatkiem kiszonych ogórków.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mieszanka mięs i wędlin (wołowe, kiełbasa, boczek, parówki) - ok. 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ogórki kiszone - 4-5 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koncentrat pomidorowy - 2 łyżki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwki, kapary", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cytryna i kwaśna śmietana do podania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wędliny i mięso pokrój w kostkę. Cebulę posiekaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na patelni zeszklij cebulę, dodaj mięso i wędliny, smaż chwilę. Dodaj koncentrat.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przełóż wszystko do garnka z bulionem. Dodaj pokrojone w kostkę ogórki. Gotuj 20 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na koniec dodaj oliwki i kapary. Podawaj z plasterkiem cytryny i kleksem śmietany.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 181,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Krem z pieczonej papryki", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Intensywnie paprykowy, lekko dymny i słodki. Pieczenie papryki wydobywa z niej całą głębię smaku i aromatu. Aksamitny i pyszny.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona papryka - 5-6 dużych", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula, czosnek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa z oliwek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Opcjonalnie: śmietanka, wędzona papryka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Upiecz papryki w 220°C, aż skórka sczernieje. Zamknij w misce pod folią, a następnie obierz.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zeszklij cebulę i czosnek.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj upieczoną, obraną paprykę i zalej bulionem. Gotuj 15 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj na idealnie gładki krem. Dopraw wędzoną papryką, solą i pieprzem. Można zabielić śmietanką.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 182,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa z zielonego groszku z miętą", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Słodka, kremowa i niezwykle orzeźwiająca dzięki dodatkowi świeżej mięty. Idealna na wiosenny obiad.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mrożony zielony groszek - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniak - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szalotka - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeża mięta - duża garść", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietanka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zeszklij szalotkę. Dodaj pokrojonego ziemniaka i zalej bulionem. Gotuj do miękkości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj mrożony groszek i gotuj tylko 3-4 minuty.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zdejmij z ognia, dodaj listki mięty i zblenduj na gładko.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw do smaku, można zabielić śmietanką. Podawaj z kleksem jogurtu.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 183,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Jarzynowa z młodych warzyw", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Lekka, kolorowa i pełna witamin. Najlepsza wiosną i latem, gdy warzywa są młode, delikatne i pełne smaku.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Młode ziemniaki, marchewka, pietruszka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kalarepa, fasolka szparagowa, kalafior", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion drobiowy lub warzywny", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koperek, natka pietruszki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietana do zabielenia", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wszystkie warzywa umyj, obierz i pokrój w kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do gotującego się bulionu dodawaj warzywa w kolejności od najtwardszych do najmiększych.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gotuj do miękkości. Zabiel śmietaną.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na koniec dodaj obficie posiekane zioła.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 184,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Węgierska zupa rybna Halászlé", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gęsta, pikantna i bardzo aromatyczna zupa rybna, której sekretem jest duża ilość słodkiej papryki i gotowanie ryb w całości.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Różne gatunki ryb słodkowodnych (karp, sum) - 1.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 3 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Słodka papryka w proszku (dobrej jakości) - 4-5 łyżek", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ostra papryka w proszku lub świeża", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pomidory lub koncentrat", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ryby oczyść, podziel na dzwonka. Głowy i ogony zachowaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku ułóż warstwami: posiekaną cebulę, resztki ryb, dzwonka. Każdą warstwę posyp obficie papryką.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej wodą, tak aby przykryć składniki. Gotuj na dużym ogniu przez ok. 45 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyjmij ostrożnie dzwonka ryby. Resztę wywaru przetrzyj przez sito, aby uzyskać gęsty, esencjonalny sos.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Połącz sos z kawałkami ryby. Podawaj z chlebem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 185,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa 'nic' z bezowymi chmurkami", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Słodka zupa z mleka i żółtek, pachnąca wanilią, na której unoszą się delikatne 'chmurki' z ubitych białek. Deser z czasów dzieciństwa.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Żółtka - 4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Białka - 4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cukier - 1 szklanka (po połowie do żółtek i białek)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Laska wanilii lub cukier waniliowy", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zagotuj mleko z wanilią.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Białka ubij z połową cukru na sztywną pianę. Łyżką kładź 'chmurki' na gotujące się mleko i parz po minucie z każdej strony. Wyjmuj łyżką cedzakową.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Żółtka utrzyj z resztą cukru na kogel-mogel.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zahartuj masę żółtkową gorącym mlekiem (po gotowaniu bez), a następnie wlej do reszty mleka i podgrzewaj, mieszając, aż lekko zgęstnieje. Nie gotuj!", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zupę rozlej do miseczek, na wierzchu ułóż bezowe chmurki. Podawaj na zimno.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 186,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa cebulowo-ziemniaczana", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Prosta, wiejska zupa, niezwykle sycąca i tania. Połączenie słodyczy duszonej cebuli i kremowości ziemniaków.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 4 duże", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 5-6 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Boczek wędzony - 100g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Boczek pokrój w kostkę i podsmaż na patelni. Dodaj posiekaną cebulę i smaż razem do zeszklenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ziemniaki pokrój w kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do garnka wlej bulion, dodaj ziemniaki i zawartość patelni. Gotuj do miękkości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw obficie majerankiem, solą i pieprzem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 187,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Krem z pieczonych pomidorów i czosnku", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Piecznie wydobywa z pomidorów i czosnku niesamowitą słodycz i głębię smaku. Zupa jest aksamitna, aromatyczna i bardzo prosta w przygotowaniu.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pomidory - 1.5 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czosnek - 1 cała główka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 750 ml", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Oliwa, świeży tymianek", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Piekarnik rozgrzej do 200°C. Pomidory przekrój na pół, główce czosnku odetnij wierzch. Cebulę pokrój w ósemki.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wszystko ułóż na blasze, skrop oliwą, posyp solą, pieprzem i tymiankiem. Piecz 30-40 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyciśnij upieczony, miękki czosnek z łupinek do garnka. Dodaj resztę upieczonych warzyw.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej bulionem i zblenduj na gładki krem. Dopraw do smaku.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 188,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa meksykańska z mięsem mielonym", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Pikantna, gęsta i sycąca zupa, która jest pełnym daniem obiadowym. Połączenie mięsa mielonego, fasoli, kukurydzy i pomidorów.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mięso mielone wołowe - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Czerwona fasola (puszka), kukurydza (puszka)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pomidory krojone (puszka)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula, czosnek, papryka czerwona", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Przyprawy: chili, kumin, oregano", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku podsmaż mięso mielone. Dodaj posiekaną cebulę, czosnek i paprykę. Smaż razem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj przyprawy i smaż minutę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wlej pomidory i bulion. Gotuj 20 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na koniec dodaj odcedzoną fasolę i kukurydzę. Gotuj jeszcze 5 minut. Podawaj z nachosami lub kwaśną śmietaną.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 189,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zalewajka", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Tradycyjna, prosta zupa chłopska z regionu świętokrzyskiego. Jej podstawą są ziemniaki zalane żurem. Bardzo sycąca i rozgrzewająca.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 1 kg", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Zakwas żytni na żur - 500 ml", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Boczek wędzony lub słonina - 150g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Suszone grzyby - garść (opcjonalnie)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Majeranek, liść laurowy", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ziemniaki obierz, pokrój w kostkę, zalej wodą, dodaj liść laurowy i grzyby. Gotuj do miękkości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gdy ziemniaki są miękkie, wlej zakwas. Zagotuj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Boczek i cebulę pokrój w kostkę, podsmaż na patelni na chrupko.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj okrasę do zupy. Dopraw majerankiem i pieprzem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 190,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Harira - marokańska zupa z ciecierzycą i soczewicą", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Tradycyjna zupa marokańska, często jedzona podczas Ramadanu. Gęsta, pożywna, pełna strączków i aromatycznych przypraw.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ciecierzyca, soczewica (mogą być z puszki)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jagnięcina lub wołowina (opcjonalnie) - 250g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pomidory krojone - puszka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula, seler naciowy", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Przyprawy: imbir, kurkuma, cynamon, kumin", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeża kolendra i pietruszka", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jeśli używasz mięsa, podsmaż je z posiekaną cebulą i przyprawami.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj pomidory, seler, zalej wodą lub bulionem. Gotuj do miękkości mięsa.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj ciecierzycę i soczewicę. Gotuj jeszcze 20 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na koniec dodaj obficie posiekane zioła. Można zagęścić odrobiną mąki rozmieszanej z wodą.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 191,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa 'Strogonow'", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Gęsta, kremowa zupa inspirowana słynnym daniem. Z kawałkami mięsa (tradycyjnie polędwicy wołowej), pieczarkami i ogórkiem kiszonym.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Polędwica wołowa lub wieprzowa - 500g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pieczarki - 400g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ogórek kiszony - 3-4 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Koncentrat pomidorowy, musztarda", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kwaśna śmietana", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Mięso pokrój w cienkie paski, oprósz mąką i obsmaż.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj posiekaną cebulę i pieczarki w plasterkach. Smaż razem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej bulionem, dodaj koncentrat i musztardę. Duś do miękkości mięsa.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Na koniec dodaj pokrojone w kostkę ogórki i zabiel śmietaną.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 192,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Botwinka", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Wiosenna zupa z młodych buraczków, która różni się od chłodnika tym, że podawana jest na ciepło. Delikatna, lekko słodka i bardzo zdrowa.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Botwinka - 2 pęczki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Młode ziemniaki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietana 18%", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z cytryny", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dużo koperku", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Botwinkę umyj, buraczki zetrzyj na tarce, a łodygi i liście posiekaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do bulionu wrzuć pokrojone ziemniaki i starte buraczki. Gotuj 15 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj posiekane łodygi i liście. Gotuj jeszcze 5-10 minut do miękkości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zabiel śmietaną, dopraw sokiem z cytryny, solą i cukrem. Posyp obficie koperkiem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 193,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa krem z selera z gruszką", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Zaskakujące, ale pyszne połączenie. Ziemisty smak selera jest idealnie zrównoważony przez słodycz dojrzałej gruszki. Elegancka i nietypowa zupa.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Seler korzeniowy - 1 duży", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dojrzała gruszka - 1-2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniak - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Gałka muszkatołowa", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Orzechy włoskie do dekoracji", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Seler i ziemniaka obierz, pokrój w kostkę. Zeszklij na maśle.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej bulionem i gotuj do miękkości.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj obraną i pokrojoną gruszkę. Gotuj 5 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj na gładki krem. Dopraw gałką muszkatołową, solą i pieprzem. Podawaj z prażonymi orzechami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 194,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Rosół z kaczki z lanymi kluskami", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Bogatsza, bardziej esencjonalna i tłustsza wersja rosołu. Ma głęboki, ciemny kolor i wspaniały aromat. Idealna z domowymi, lanymi kluseczkami.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Porcja rosołowa z kaczki - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Włoszczyzna, opalona cebula, przyprawy (jak w rosole 151)", "styles": [] }] },
+      { "block_style": "list-group-title", "content": [{ "text": "Lane kluski:", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajko - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mąka pszenna - 4-5 łyżek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Szczypta soli", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ugotuj rosół z kaczki metodą 'na mruganie', tak jak klasyczny rosół. Będzie wymagał dłuższego zbierania tłuszczu z powierzchni.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przygotuj kluski: w miseczce roztrzep jajko z solą, dodawaj mąkę, mieszając, aż powstanie gęste, lejące się ciasto.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Przecedzony, gorący rosół wlej do osobnego garnka. Cienką strużką wlewaj ciasto na gotujący się rosół.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gotuj 1-2 minuty, aż kluseczki wypłyną na powierzchnię.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 195,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Forstmak - zupa śledziowa", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Historyczna zupa o korzeniach żydowskich, popularna w kuchni kresowej. Słono-kwaśna, z charakterystycznym smakiem śledzia, jabłka i śmietany.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Filety śledziowe w oleju lub solone - 300g", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kwaśne jabłko - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Kwaśna śmietana - 1/2 szklanki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Jeśli używasz śledzi solonych, wymocz je w wodzie. Śledzie w oleju odsącz. Pokrój w kostkę.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Ziemniaki pokrój w kostkę i ugotuj w bulionie.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Cebulę i jabłko zetrzyj na tarce, dodaj do zupy i gotuj 10 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj pokrojone śledzie. Zdejmij z ognia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zabiel śmietaną, dopraw pieprzem. Podawaj z chlebem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 196,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa tajska z kurczakiem i mlekiem kokosowym (Tom Kha Gai)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Łagodniejsza siostra Tom Yum. Kremowa, aromatyczna zupa na bazie mleka kokosowego z kurczakiem, galangalem i trawą cytrynową.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Pierś z kurczaka - 1 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Mleko kokosowe - puszka 400ml", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion drobiowy - 500 ml", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Galangal, trawa cytrynowa, liście kaffiru", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Grzyby (np. boczniaki)", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sos rybny, sok z limonki", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do garnka wlej bulion i mleko kokosowe. Dodaj rozbite aromaty (galangal, trawa, liście). Zagotuj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj pokrojonego w paski kurczaka i grzyby. Gotuj ok. 10 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wyjmij twarde przyprawy. Dopraw sosem rybnym i sokiem z limonki. Posyp kolendrą.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 197,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Krem z batatów z masłem orzechowym", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Inspirowana kuchnią afrykańską. Słodkie bataty, kremowe masło orzechowe i nuta pikanterii tworzą niezwykle oryginalną i pyszną zupę.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bataty - 2 duże", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1 litr", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Masło orzechowe (niesłodzone) - 3-4 łyżki", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Cebula, czosnek, imbir", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Płatki chili", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Prażone orzeszki ziemne do posypania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W garnku zeszklij cebulę, czosnek i imbir.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dodaj obrane i pokrojone w kostkę bataty. Smaż 5 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej bulionem i gotuj do miękkości batatów.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj zupę na gładko. Dodaj masło orzechowe i chili. Wymieszaj do połączenia.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj posypaną prażonymi orzeszkami.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 198,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Zupa z pokrzywy", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Wiosenna zupa o smaku podobnym do szpinaku, ale z własnym, unikalnym charakterem. Pełna żelaza i witamin.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Młode pędy pokrzywy - duża miska", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion warzywny - 1.5 litra", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ziemniaki, marchew, cebula", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Śmietana do zabielenia", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jajko na twardo do podania", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Pokrzywę (zbieraną w rękawiczkach!) sparz wrzątkiem, aby straciła właściwości parzące. Odcedź i posiekaj.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "W bulionie ugotuj pokrojone warzywa.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Gdy warzywa będą miękkie, dodaj posiekaną pokrzywę. Gotuj 5 minut.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Można zblendować na krem. Zabiel śmietaną. Podawaj z jajkiem.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 199,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Wietnamska Zupa Pho Bo (Wołowa)", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Aromatyczny, klarowny bulion z anyżem, cynamonem i kardamonem, cienkie plasterki surowej wołowiny, makaron ryżowy i świeże zioła. Zupa, która jest całym rytuałem.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Bulion wołowy (gotowany na kościach) - 2 litry", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Polędwica wołowa - 300g, bardzo cienko pokrojona", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Makaron ryżowy Pho", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Anyż gwiaździsty, laska cynamonu, kardamon, goździki", "styles": ["inline-bold"] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Imbir, cebula - opalone", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dodatki: kiełki fasoli mung, tajska bazylia, kolendra, limonka, chili", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do gotowego bulionu dodaj opalone przyprawy korzenne, imbir i cebulę. Gotuj na małym ogniu 1 godzinę, aby naciągnął aromatami. Przecedź.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Makaron przygotuj zgodnie z instrukcją.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Do miski włóż makaron i surowe, cienkie plasterki wołowiny.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zalej wszystko bardzo gorącym, wrzącym bulionem. Wołowina ugotuje się w misce.", "styles": ["inline-highlight-theme"] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Podawaj z talerzem świeżych ziół i dodatków, które każdy dodaje sobie sam.", "styles": [] }] }
+    ]
+  },
+  {
+    "id": 200,
+    "content": [
+      { "block_style": "header-h1", "content": [{ "text": "Chłodnik z ogórków i awokado", "styles": [] }] },
+      { "block_style": "paragraph-intro", "content": [{ "text": "Nowoczesna, kremowa wersja chłodnika. Aksamitne awokado, orzeźwiający ogórek i nuta limonki tworzą niezwykle lekką i pyszną zupę na upały.", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Składniki", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Dojrzałe awokado - 2 szt.", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Ogórek szklarniowy - 1 długi", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Jogurt grecki - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Woda zimna lub bulion warzywny - 1 szklanka", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Sok z 1-2 limonek", "styles": [] }] },
+      { "block_style": "list-checkbox-unchecked", "content": [{ "text": "Świeża mięta lub kolendra", "styles": [] }] },
+      { "block_style": "header-h2", "content": [{ "text": "Przygotowanie", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wszystkie składniki (obrane awokado i ogórek, jogurt, wodę, sok z limonki, zioła) umieść w blenderze.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Zblenduj na idealnie gładki, aksamitny krem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Dopraw do smaku solą i pieprzem.", "styles": [] }] },
+      { "block_style": "list-ordered", "content": [{ "text": "Wstaw do lodówki na co najmniej godzinę. Podawaj bardzo zimny, udekorowany listkami mięty i kroplą oliwy.", "styles": [] }] }
+    ]
+  }
+]
